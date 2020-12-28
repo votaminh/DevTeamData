@@ -1,10 +1,40 @@
 {
   data:[
     {
-      "tag" : "writing"
+      "tag" : "Arabic"
     },
     {
-      "tag" : "bold"
+      "tag" : "black letter"
+    },
+    {
+      "tag" : "Cursive"
+    },
+    {
+      "tag" : "Engineering"
+    },
+    {
+      "tag" : "Hindi"
+    },
+    {
+    "tag" : "Lettering"
+    }, 
+    {
+      "tag" : "Malayalam"
+    },
+    {
+      "tag" : "Medival"
+    },
+    {
+      "tag" : "Monogram"
+    },
+    {
+      "tag" : "Movie"
+    },
+    {
+      "tag" : "Neon"
+    },
+    {
+      "tag" : "old english"
     }
     ]
 }
