@@ -1,40 +1,70 @@
 {
-  data:[
+  "data": [
     {
-      "tag" : "Arabic"
+      "tag": "3d"
     },
     {
-      "tag" : "black letter"
+      "tag": "Aksara Jawa"
     },
     {
-      "tag" : "Cursive"
+      "tag": "Arabic"
     },
     {
-      "tag" : "Engineering"
+      "tag": "Art-deco"
     },
     {
-      "tag" : "Hindi"
+      "tag": "Baseball"
     },
     {
-    "tag" : "Lettering"
-    }, 
-    {
-      "tag" : "Malayalam"
+      "tag": "black letter"
     },
     {
-      "tag" : "Medival"
+      "tag": "Calligraphy"
     },
     {
-      "tag" : "Monogram"
+      "tag": "Cursive"
     },
     {
-      "tag" : "Movie"
+      "tag": "Engineering"
     },
     {
-      "tag" : "Neon"
+      "tag": "Hindi"
     },
     {
-      "tag" : "old english"
+      "tag": "Japanese"
+    },
+    {
+      "tag": "Lettering"
+    },
+    {
+      "tag": "Malayalam"
+    },
+    {
+      "tag": "Medival"
+    },
+    {
+      "tag": "modifier letter right arrowhead"
+    },
+    {
+      "tag": "Monogram"
+    },
+    {
+      "tag": "Movie"
+    },
+    {
+      "tag": "Neon"
+    },
+    {
+      "tag": "old english"
+    },
+    {
+      "tag": "Stencil"
+    },
+    {
+      "tag": "Tsabit Latief"
+    },
+    {
+      "tag": "ธนมาศ"
     }
-    ]
+  ]
 }
