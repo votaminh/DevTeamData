@@ -5,7 +5,8 @@
       "data": [
         {
           "template_name": "1609989485294",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609989586334",
@@ -13,11 +14,13 @@
         },
         {
           "template_name": "1609989706421",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609989944862",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609990047134",
@@ -29,11 +32,13 @@
         },
         {
           "template_name": "1609990338316",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609990580101",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609990777904",
@@ -41,15 +46,18 @@
         },
         {
           "template_name": "1609990844762",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609991017054",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609991156973",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609991505016",
@@ -61,7 +69,8 @@
         },
         {
           "template_name": "1609991786909",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609991894541",
@@ -77,11 +86,13 @@
         },
         {
           "template_name": "1609992400836",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609992489712",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609993094277",
@@ -89,7 +100,8 @@
         },
         {
           "template_name": "1609993213906",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609993364743",
@@ -97,7 +109,8 @@
         },
         {
           "template_name": "1609993428029",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609993562829",
@@ -109,7 +122,8 @@
         },
         {
           "template_name": "1609993785576",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609993909659",
@@ -121,7 +135,8 @@
         },
         {
           "template_name": "1609994373861",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609994651978",
@@ -129,7 +144,8 @@
         },
         {
           "template_name": "1609994978389",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609995318437",
@@ -141,7 +157,8 @@
         },
         {
           "template_name": "1610002132300",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1610002243906",
@@ -149,7 +166,8 @@
         },
         {
           "template_name": "1610002369699",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1610002452477",
@@ -157,7 +175,8 @@
         },
         {
           "template_name": "1610002613686",
-          "topic": "abstract"
+          "topic": "abstract",
+          "iap": true
         },
         {
           "template_name": "1609905179806",
