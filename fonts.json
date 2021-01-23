@@ -1,6 +1,20 @@
 {
   "data": [
-    
+    {
+      "url": "Bahiana-Regular.otf"
+    },
+    {
+      "url": "PassionOne-Black.otf"
+    },
+    {
+      "url": "PassionOne-Bold.otf"
+    },
+    {
+      "url": "PassionOne-Regular.otf"
+    },
+    {
+      "url": "PollerOne.ttf"
+    },
     {
       "url": "Audiowide-Regular.ttf"
     },
@@ -51,8 +65,7 @@
     },
     {
       "url": "knewave.ttf"
-    }
-  ,
+    },
     {
       "url": "ABeeZee-Italic.otf"
     },
@@ -115,8 +128,7 @@
     },
     {
       "url": "graduate-regular.ttf"
-    }
-  ,
+    },
     {
       "url": "(A) Arslan Wessam A (A) Arslan Wessam-arabic.ttf"
     },
