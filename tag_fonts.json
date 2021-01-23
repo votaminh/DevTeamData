@@ -1,28 +1,36 @@
 {
   "data": [
     {
-      "tag": "paint"
+      "tag": "paint",
+      "isNew" : true
     },
     {
-      "tag": "tatoo"
+      "tag": "tatoo",
+      "isNew" : true
     },
     {
-      "tag": "brush"
+      "tag": "brush",
+      "isNew" : true
     },
     {
-      "tag": "hand writing"
+      "tag": "hand writing",
+      "isNew" : true
     },
     {
-      "tag": "engineering"
+      "tag": "engineering",
+      "isNew" : true
     },
     {
-      "tag": "racing"
+      "tag": "racing",
+      "isNew" : true
     },
     {
-      "tag": "signature"
+      "tag": "signature",
+      "isNew" : true
     },
     {
-      "tag": "graffiti"
+      "tag": "graffiti",
+      "isNew" : true
     },
     {
       "tag": "3d"
