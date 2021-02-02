@@ -1,36 +1,96 @@
 {
   "data": [
     {
-      "tag": "paint",
-      "isNew" : true
+      "tag": "america",
+      "isNew": true
     },
     {
-      "tag": "tatoo",
-      "isNew" : true
+      "tag": "crystal sky",
+      "isNew": true
     },
     {
-      "tag": "brush",
-      "isNew" : true
+      "tag": "disney",
+      "isNew": true
     },
     {
-      "tag": "hand writing",
-      "isNew" : true
+      "tag": "dj",
+      "isNew": true
     },
     {
-      "tag": "engineering",
-      "isNew" : true
+      "tag": "drip",
+      "isNew": true
     },
     {
-      "tag": "racing",
-      "isNew" : true
-    },
-    {
-      "tag": "signature",
-      "isNew" : true
+      "tag": "esport",
+      "isNew": true
     },
     {
       "tag": "graffiti",
-      "isNew" : true
+      "isNew": true
+    },
+    {
+      "tag": "gujarati",
+      "isNew": true
+    },
+    {
+      "tag": "horor",
+      "isNew": true
+    },
+    {
+      "tag": "japan",
+      "isNew": true
+    },
+    {
+      "tag": "korean",
+      "isNew": true
+    },
+    {
+      "tag": "retro",
+      "isNew": true
+    },
+    {
+      "tag": "rock",
+      "isNew": true
+    },
+    {
+      "tag": "sexy",
+      "isNew": true
+    },
+    {
+      "tag": "thai",
+      "isNew": true
+    },
+    {
+      "tag": "paint",
+      "isNew": false
+    },
+    {
+      "tag": "tatoo",
+      "isNew": false
+    },
+    {
+      "tag": "brush",
+      "isNew": false
+    },
+    {
+      "tag": "hand writing",
+      "isNew": false
+    },
+    {
+      "tag": "engineering",
+      "isNew": false
+    },
+    {
+      "tag": "racing",
+      "isNew": false
+    },
+    {
+      "tag": "signature",
+      "isNew": false
+    },
+    {
+      "tag": "graffiti",
+      "isNew": false
     },
     {
       "tag": "3d"
