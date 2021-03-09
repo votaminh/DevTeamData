@@ -1,8 +1,80 @@
 {
   "data": [
-{
-"url" : "CRUSHED.ttf"
-},
+    {
+      "url": "AllertaStencil-Regular.ttf"
+    },
+    {
+      "url": "BungeeInline-Regular.ttf"
+    },
+    {
+      "url": "CevicheOne-Regular.ttf"
+    },
+    {
+      "url": "DenkOne-Regular.ttf"
+    },
+    {
+      "url": "JosefinSlab-Bold.ttf"
+    },
+    {
+      "url": "JosefinSlab-BoldItalic.ttf"
+    },
+    {
+      "url": "JosefinSlab-Italic.ttf"
+    },
+    {
+      "url": "JosefinSlab-Light.ttf"
+    },
+    {
+      "url": "JosefinSlab-LightItalic.ttf"
+    },
+    {
+      "url": "JosefinSlab-Regular.ttf"
+    },
+    {
+      "url": "JosefinSlab-SemiBold.ttf"
+    },
+    {
+      "url": "JosefinSlab-SemiBoldItalic.ttf"
+    },
+    {
+      "url": "JosefinSlab-Thin.ttf"
+    },
+    {
+      "url": "JosefinSlab-ThinItalic.ttf"
+    },
+    {
+      "url": "KaushanScript-Regular.ttf"
+    },
+    {
+      "url": "Mandali-Regular.ttf"
+    },
+    {
+      "url": "Merienda-Bold.ttf"
+    },
+    {
+      "url": "Merienda-Regular.ttf"
+    },
+    {
+      "url": "SigmarOne.ttf"
+    },
+    {
+      "url": "Yesteryear-Regular.ttf"
+    },
+    {
+      "url": "im-fell-dw-pica.italic.ttf"
+    },
+    {
+      "url": "im-fell-dw-pica.roman.ttf"
+    },
+    {
+      "url": "im-fell-dw-pica.sc.ttf"
+    },
+    {
+      "url": "rationale.ttf"
+    },
+    {
+      "url": "CRUSHED.ttf"
+    },
     {
       "url": "851chikara-dzuyoku_kanaa_004-japan.ttf"
     },
@@ -1719,7 +1791,6 @@
     {
       "url": "pwfreshpaintings-drip.ttf"
     },
-
     {
       "url": "quarrystone-rock.ttf"
     },
@@ -2625,8 +2696,7 @@
     },
     {
       "url": "•p–¾’©‚µ‚ç‚ä‚«mini-japan.otf"
-    }
-  ,
+    },
     {
       "url": "Bahiana-Regular.otf"
     },
