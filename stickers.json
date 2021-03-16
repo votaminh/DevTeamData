@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "topic": "arabic",
+      "topic": "Arabic",
       "list": [
         {
           "url": "arabic1.webp",
@@ -283,7 +283,7 @@
       "isNew": true
     },
     {
-      "topic": "cartoon",
+      "topic": "Cartoon",
       "list": [
         {
           "url": "cartoon1.webp",
@@ -589,7 +589,7 @@
       "isNew": true
     },
     {
-      "topic": "caution",
+      "topic": "Caution",
       "list": [
         {
           "url": "caution1.webp",
@@ -691,7 +691,7 @@
       "isNew": true
     },
     {
-      "topic": "church",
+      "topic": "Church",
       "list": [
         {
           "url": "church1.webp",
@@ -893,7 +893,7 @@
       "isNew": true
     },
     {
-      "topic": "dangerous",
+      "topic": "Dangerous",
       "list": [
         {
           "url": "dangerous1.webp",
@@ -1627,7 +1627,7 @@
       "isNew": true
     },
     {
-      "topic": "emoji",
+      "topic": "Emoji",
       "list": [
         {
           "url": "emoji1.webp",
@@ -2189,8 +2189,158 @@
       "isNew": true
     },
     {
-      "topic": "halloween",
+      "topic": "Halloween",
       "list": [
+        {
+          "url": "001_clown.webp"
+        },
+        {
+          "url": "002_devil.webp"
+        },
+        {
+          "url": "003_devil_1.webp"
+        },
+        {
+          "url": "004_nun.webp"
+        },
+        {
+          "url": "005_zombie.webp"
+        },
+        {
+          "url": "006_werewolf.webp"
+        },
+        {
+          "url": "007_jester.webp"
+        },
+        {
+          "url": "008_monster.webp"
+        },
+        {
+          "url": "009_pumpkin.webp"
+        },
+        {
+          "url": "010_reaper.webp"
+        },
+        {
+          "url": "011_little_red_riding_hood.webp"
+        },
+        {
+          "url": "012_wizard.webp"
+        },
+        {
+          "url": "013_monster_1.webp"
+        },
+        {
+          "url": "014_marshmallow.webp"
+        },
+        {
+          "url": "015_cake.webp"
+        },
+        {
+          "url": "016_candle.webp"
+        },
+        {
+          "url": "017_basket.webp"
+        },
+        {
+          "url": "018_candy.webp"
+        },
+        {
+          "url": "019_bride_of_frankenstein.webp"
+        },
+        {
+          "url": "020_hockey.webp"
+        },
+        {
+          "url": "021_hand.webp"
+        },
+        {
+          "url": "022_finger.webp"
+        },
+        {
+          "url": "023_vampire.webp"
+        },
+        {
+          "url": "024_witch.webp"
+        },
+        {
+          "url": "025_nurse.webp"
+        },
+        {
+          "url": "026_bunny.webp"
+        },
+        {
+          "url": "027_unicorn.webp"
+        },
+        {
+          "url": "028_eyeball.webp"
+        },
+        {
+          "url": "029_potion.webp"
+        },
+        {
+          "url": "030_spider.webp"
+        },
+        {
+          "url": "031_candy_1.webp"
+        },
+        {
+          "url": "032_drink.webp"
+        },
+        {
+          "url": "033_lollipop.webp"
+        },
+        {
+          "url": "034_frankenstein.webp"
+        },
+        {
+          "url": "035_invitation.webp"
+        },
+        {
+          "url": "036_bat.webp"
+        },
+        {
+          "url": "037_bunting.webp"
+        },
+        {
+          "url": "038_gift.webp"
+        },
+        {
+          "url": "039_balloon.webp"
+        },
+        {
+          "url": "040_axe.webp"
+        },
+        {
+          "url": "041_coffin.webp"
+        },
+        {
+          "url": "042_gravestone.webp"
+        },
+        {
+          "url": "043_knife.webp"
+        },
+        {
+          "url": "044_pitchfork.webp"
+        },
+        {
+          "url": "045_mummy.webp"
+        },
+        {
+          "url": "046_devil_2.webp"
+        },
+        {
+          "url": "047_magician.webp"
+        },
+        {
+          "url": "048_pirate.webp"
+        },
+        {
+          "url": "049_ghost.webp"
+        },
+        {
+          "url": "050_scarecrow.webp"
+        },
         {
           "url": "halloween1.webp",
           "iap": true
@@ -2439,7 +2589,7 @@
       "isNew": true
     },
     {
-      "topic": "hand",
+      "topic": "Hand",
       "list": [
         {
           "url": "hand1.webp",
@@ -2605,7 +2755,7 @@
       "isNew": true
     },
     {
-      "topic": "innovative_idea",
+      "topic": "Innovative Idea",
       "list": [
         {
           "url": "innovative_idea1.webp",
@@ -2907,7 +3057,7 @@
       "isNew": true
     },
     {
-      "topic": "kids",
+      "topic": "Kids",
       "list": [
         {
           "url": "kids1.webp",
@@ -3373,7 +3523,7 @@
       "isNew": true
     },
     {
-      "topic": "paint",
+      "topic": "Paint",
       "list": [
         {
           "url": "paint1.webp",
@@ -3455,7 +3605,7 @@
       "isNew": true
     },
     {
-      "topic": "ramadan",
+      "topic": "Ramadan",
       "list": [
         {
           "url": "ramadan1.webp",
@@ -3537,7 +3687,7 @@
       "isNew": true
     },
     {
-      "topic": "ribbon",
+      "topic": "Ribbon",
       "list": [
         {
           "url": "ribbon1.webp",
@@ -3867,7 +4017,7 @@
       "isNew": true
     },
     {
-      "topic": "skull",
+      "topic": "Skull",
       "list": [
         {
           "url": "skull1.webp",
@@ -4069,7 +4219,7 @@
       "isNew": true
     },
     {
-      "topic": "think",
+      "topic": "Think",
       "list": [
         {
           "url": "think1.webp",
@@ -4347,7 +4497,7 @@
       "isNew": true
     },
     {
-      "topic": "toy",
+      "topic": "Toy",
       "list": [
         {
           "url": "toy1.webp",
@@ -4737,7 +4887,7 @@
       "isNew": true
     },
     {
-      "topic": "vintage",
+      "topic": "Vintage",
       "list": [
         {
           "url": "vintage1.webp",
@@ -5139,7 +5289,7 @@
       "isNew": true
     },
     {
-      "topic": "vs",
+      "topic": "Vs",
       "list": [
         {
           "url": "vs1.webp",
@@ -49091,161 +49241,6 @@
         },
         {
           "url": "060_cabinet.webp"
-        }
-      ]
-    },
-    {
-      "topic": "Halloween",
-      "list": [
-        {
-          "url": "001_clown.webp"
-        },
-        {
-          "url": "002_devil.webp"
-        },
-        {
-          "url": "003_devil_1.webp"
-        },
-        {
-          "url": "004_nun.webp"
-        },
-        {
-          "url": "005_zombie.webp"
-        },
-        {
-          "url": "006_werewolf.webp"
-        },
-        {
-          "url": "007_jester.webp"
-        },
-        {
-          "url": "008_monster.webp"
-        },
-        {
-          "url": "009_pumpkin.webp"
-        },
-        {
-          "url": "010_reaper.webp"
-        },
-        {
-          "url": "011_little_red_riding_hood.webp"
-        },
-        {
-          "url": "012_wizard.webp"
-        },
-        {
-          "url": "013_monster_1.webp"
-        },
-        {
-          "url": "014_marshmallow.webp"
-        },
-        {
-          "url": "015_cake.webp"
-        },
-        {
-          "url": "016_candle.webp"
-        },
-        {
-          "url": "017_basket.webp"
-        },
-        {
-          "url": "018_candy.webp"
-        },
-        {
-          "url": "019_bride_of_frankenstein.webp"
-        },
-        {
-          "url": "020_hockey.webp"
-        },
-        {
-          "url": "021_hand.webp"
-        },
-        {
-          "url": "022_finger.webp"
-        },
-        {
-          "url": "023_vampire.webp"
-        },
-        {
-          "url": "024_witch.webp"
-        },
-        {
-          "url": "025_nurse.webp"
-        },
-        {
-          "url": "026_bunny.webp"
-        },
-        {
-          "url": "027_unicorn.webp"
-        },
-        {
-          "url": "028_eyeball.webp"
-        },
-        {
-          "url": "029_potion.webp"
-        },
-        {
-          "url": "030_spider.webp"
-        },
-        {
-          "url": "031_candy_1.webp"
-        },
-        {
-          "url": "032_drink.webp"
-        },
-        {
-          "url": "033_lollipop.webp"
-        },
-        {
-          "url": "034_frankenstein.webp"
-        },
-        {
-          "url": "035_invitation.webp"
-        },
-        {
-          "url": "036_bat.webp"
-        },
-        {
-          "url": "037_bunting.webp"
-        },
-        {
-          "url": "038_gift.webp"
-        },
-        {
-          "url": "039_balloon.webp"
-        },
-        {
-          "url": "040_axe.webp"
-        },
-        {
-          "url": "041_coffin.webp"
-        },
-        {
-          "url": "042_gravestone.webp"
-        },
-        {
-          "url": "043_knife.webp"
-        },
-        {
-          "url": "044_pitchfork.webp"
-        },
-        {
-          "url": "045_mummy.webp"
-        },
-        {
-          "url": "046_devil_2.webp"
-        },
-        {
-          "url": "047_magician.webp"
-        },
-        {
-          "url": "048_pirate.webp"
-        },
-        {
-          "url": "049_ghost.webp"
-        },
-        {
-          "url": "050_scarecrow.webp"
         }
       ]
     },
