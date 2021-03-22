@@ -1,1 +1,631 @@
-{"topic_type":"logos","data":[{"default_name":"abstract","multi_language":[{"country":"vi","name":"trừu tượng"},{"country":"en","name":"abstract"},{"country":"de","name":"abstrakt"}]},{"default_name":"agriculture","multi_language":[{"country":"vi","name":"nông nghiệp"},{"country":"en","name":"agriculture"},{"country":"de","name":"landwirtschaft"}]},{"default_name":"animal","multi_language":[{"country":"vi","name":"động vật"},{"country":"en","name":"animal"},{"country":"de","name":"tier"}]},{"default_name":"art","multi_language":[{"country":"vi","name":"nghệ thuật"},{"country":"en","name":"art"},{"country":"de","name":"kunst"}]},{"default_name":"attorney & law","multi_language":[{"country":"vi","name":"Luật sư & Luật"},{"country":"en","name":"attorney & law"},{"country":"de","name":"anwälte & gesetze"}]},{"default_name":"badge","multi_language":[{"country":"vi","name":"huy hiệu"},{"country":"en","name":"badge"},{"country":"de","name":"Wappen"}]},{"default_name":"business & consulting","multi_language":[{"country":"vi","name":"kinh doanh & tư vấn"},{"country":"en","name":"business & consulting"},{"country":"de","name":"Unternehmensberatung"}]},{"default_name":"car & auto","multi_language":[{"country":"vi","name":"ô tô"},{"country":"en","name":"car & auto"},{"country":"de","name":"auto"}]},{"default_name":"children & childcare","multi_language":[{"country":"vi","name":"trẻ em & chăm sóc trẻ em"},{"country":"en","name":"children & childcare"},{"country":"de","name":"kinder & kinderbetreuung"}]},{"default_name":"club","multi_language":[{"country":"vi","name":"câu lạc bộ"},{"country":"en","name":"club"},{"country":"de","name":"verein"}]},{"default_name":"communication","multi_language":[{"country":"vi","name":"giao tiếp"},{"country":"en","name":"communication"},{"country":"de","name":"kommunikation"}]},{"default_name":"company","multi_language":[{"country":"vi","name":"công ty"},{"country":"en","name":"company"},{"country":"de","name":"unternehmen"}]},{"default_name":"construction","multi_language":[{"country":"vi","name":"xây dựng"},{"country":"en","name":"construction"},{"country":"de","name":"konstruktion"}]},{"default_name":"education","multi_language":[{"country":"vi","name":"giáo dục"},{"country":"en","name":"education"},{"country":"de","name":"bildung"}]},{"default_name":"entertainment","multi_language":[{"country":"vi","name":"giải trí"},{"country":"en","name":"entertainment"},{"country":"de","name":"unterhaltung"}]},{"default_name":"fashion & beauty","multi_language":[{"country":"vi","name":"thời trang & làm đẹp"},{"country":"en","name":"fashion & beauty"},{"country":"de","name":"mode & schönheit"}]},{"default_name":"finance & insurance","multi_language":[{"country":"vi","name":"tài chính & bảo hiểm"},{"country":"en","name":"finance & insurance"},{"country":"de","name":"finanzen & versicherungen"}]},{"default_name":"food","multi_language":[{"country":"vi","name":"món ăn"},{"country":"en","name":"food"},{"country":"de","name":"lebensmittel"}]},{"default_name":"industrial","multi_language":[{"country":"vi","name":"công nghiệp"},{"country":"en","name":"industrial"},{"country":"de","name":"industriell"}]},{"default_name":"life","multi_language":[{"country":"vi","name":"đời sống"},{"country":"en","name":"life"},{"country":"de","name":"leben"}]},{"default_name":"medical & pharmaceutical","multi_language":[{"country":"vi","name":"y tế và dược phẩm"},{"country":"en","name":"medical & pharmaceutical"},{"country":"de","name":"medizinisch & pharmazeutisch"}]},{"default_name":"music","multi_language":[{"country":"vi","name":"âm nhạc"},{"country":"en","name":"music"},{"country":"de","name":"musik"}]},{"default_name":"nature","multi_language":[{"country":"vi","name":"thiên nhiên"},{"country":"en","name":"nature"},{"country":"de","name":"natur"}]},{"default_name":"noel","multi_language":[{"country":"vi","name":"giáng sinh"},{"country":"en","name":"christmas"},{"country":"de","name":"weihnachten"}]},{"default_name":"non-profit","multi_language":[{"country":"vi","name":"phi lợi nhuận"},{"country":"en","name":"non-profit"},{"country":"de","name":"gemeinnützig"}]},{"default_name":"religion","multi_language":[{"country":"vi","name":"tôn giáo"},{"country":"en","name":"religion"},{"country":"de","name":"religion"}]},{"default_name":"restaurant","multi_language":[{"country":"vi","name":"nhà hàng"},{"country":"en","name":"restaurant"},{"country":"de","name":"restaurant"}]},{"default_name":"retail & sale","multi_language":[{"country":"vi","name":"bán lẻ"},{"country":"en","name":"retail & sale"},{"country":"de","name":"einzelverkauf"}]},{"default_name":"science & technology","multi_language":[{"country":"vi","name":"khoa học công nghệ"},{"country":"en","name":"science & technology"},{"country":"de","name":"wissenschaft & technologie"}]},{"default_name":"storage","multi_language":[{"country":"vi","name":"lưu trữ"},{"country":"en","name":"storage"},{"country":"de","name":"lager"}]}]}
+{
+  "topic_type": "logos",
+  "data": [
+    {
+      "default_name": "abstract",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "trừu tượng"
+        },
+        {
+          "country": "en",
+          "name": "abstract"
+        },
+        {
+          "country": "de",
+          "name": "abstrakt"
+        },
+        {
+          "country": "es",
+          "name": "abstracto"
+        }
+      ]
+    },
+    {
+      "default_name": "agriculture",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nông nghiệp"
+        },
+        {
+          "country": "en",
+          "name": "agriculture"
+        },
+        {
+          "country": "de",
+          "name": "landwirtschaft"
+        },
+        {
+          "country": "es",
+          "name": "agrícola"
+        }
+      ]
+    },
+    {
+      "default_name": "animal",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "động vật"
+        },
+        {
+          "country": "en",
+          "name": "animal"
+        },
+        {
+          "country": "de",
+          "name": "tier"
+        },
+        {
+          "country": "es",
+          "name": "animal"
+        }
+      ]
+    },
+    {
+      "default_name": "art",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nghệ thuật"
+        },
+        {
+          "country": "en",
+          "name": "art"
+        },
+        {
+          "country": "de",
+          "name": "kunst"
+        },
+        {
+          "country": "es",
+          "name": "arte"
+        }
+      ]
+    },
+    {
+      "default_name": "attorney & law",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Luật sư & Luật"
+        },
+        {
+          "country": "en",
+          "name": "attorney & law"
+        },
+        {
+          "country": "de",
+          "name": "anwälte & gesetze"
+        },
+        {
+          "country": "es",
+          "name": "abogado y ley"
+        }
+      ]
+    },
+    {
+      "default_name": "badge",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "huy hiệu"
+        },
+        {
+          "country": "en",
+          "name": "badge"
+        },
+        {
+          "country": "de",
+          "name": "Wappen"
+        },
+        {
+          "country": "es",
+          "name": "insignia"
+        }
+      ]
+    },
+    {
+      "default_name": "business & consulting",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "kinh doanh & tư vấn"
+        },
+        {
+          "country": "en",
+          "name": "business & consulting"
+        },
+        {
+          "country": "de",
+          "name": "Unternehmensberatung"
+        },
+        {
+          "country": "es",
+          "name": "consulta de trabajo"
+        }
+      ]
+    },
+    {
+      "default_name": "car & auto",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "ô tô"
+        },
+        {
+          "country": "en",
+          "name": "car & auto"
+        },
+        {
+          "country": "de",
+          "name": "auto"
+        },
+        {
+          "country": "es",
+          "name": "coche y auto"
+        }
+      ]
+    },
+    {
+      "default_name": "children & childcare",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "trẻ em & chăm sóc trẻ em"
+        },
+        {
+          "country": "en",
+          "name": "children & childcare"
+        },
+        {
+          "country": "de",
+          "name": "kinder & kinderbetreuung"
+        },
+        {
+          "country": "es",
+          "name": "niños y cuidado de niños"
+        }
+      ]
+    },
+    {
+      "default_name": "club",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "câu lạc bộ"
+        },
+        {
+          "country": "en",
+          "name": "club"
+        },
+        {
+          "country": "de",
+          "name": "verein"
+        },
+        {
+          "country": "es",
+          "name": "club"
+        }
+      ]
+    },
+    {
+      "default_name": "communication",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giao tiếp"
+        },
+        {
+          "country": "en",
+          "name": "communication"
+        },
+        {
+          "country": "de",
+          "name": "kommunikation"
+        },
+        {
+          "country": "es",
+          "name": "comunicación"
+        }
+      ]
+    },
+    {
+      "default_name": "company",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "công ty"
+        },
+        {
+          "country": "en",
+          "name": "company"
+        },
+        {
+          "country": "de",
+          "name": "unternehmen"
+        },
+        {
+          "country": "es",
+          "name": "empresa"
+        }
+      ]
+    },
+    {
+      "default_name": "construction",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "xây dựng"
+        },
+        {
+          "country": "en",
+          "name": "construction"
+        },
+        {
+          "country": "de",
+          "name": "konstruktion"
+        },
+        {
+          "country": "es",
+          "name": "construcción"
+        }
+      ]
+    },
+    {
+      "default_name": "education",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giáo dục"
+        },
+        {
+          "country": "en",
+          "name": "education"
+        },
+        {
+          "country": "de",
+          "name": "bildung"
+        },
+        {
+          "country": "es",
+          "name": "educación"
+        }
+      ]
+    },
+    {
+      "default_name": "entertainment",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giải trí"
+        },
+        {
+          "country": "en",
+          "name": "entertainment"
+        },
+        {
+          "country": "de",
+          "name": "unterhaltung"
+        },
+        {
+          "country": "es",
+          "name": "entretenimiento"
+        }
+      ]
+    },
+    {
+      "default_name": "fashion & beauty",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "thời trang & làm đẹp"
+        },
+        {
+          "country": "en",
+          "name": "fashion & beauty"
+        },
+        {
+          "country": "de",
+          "name": "mode & schönheit"
+        },
+        {
+          "country": "es",
+          "name": "belleza de la moda"
+        }
+      ]
+    },
+    {
+      "default_name": "finance & insurance",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "tài chính & bảo hiểm"
+        },
+        {
+          "country": "en",
+          "name": "finance & insurance"
+        },
+        {
+          "country": "de",
+          "name": "finanzen & versicherungen"
+        },
+        {
+          "country": "es",
+          "name": "finanzas y seguros"
+        }
+      ]
+    },
+    {
+      "default_name": "food",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "món ăn"
+        },
+        {
+          "country": "en",
+          "name": "food"
+        },
+        {
+          "country": "de",
+          "name": "lebensmittel"
+        }
+      ]
+    },
+    {
+      "default_name": "industrial",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "công nghiệp"
+        },
+        {
+          "country": "en",
+          "name": "industrial"
+        },
+        {
+          "country": "de",
+          "name": "industriell"
+        },
+        {
+          "country": "es",
+          "name": "industrial"
+        }
+      ]
+    },
+    {
+      "default_name": "life",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "đời sống"
+        },
+        {
+          "country": "en",
+          "name": "life"
+        },
+        {
+          "country": "de",
+          "name": "leben"
+        },
+        {
+          "country": "es",
+          "name": "vida"
+        }
+      ]
+    },
+    {
+      "default_name": "medical & pharmaceutical",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "y tế và dược phẩm"
+        },
+        {
+          "country": "en",
+          "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "de",
+          "name": "medizinisch & pharmazeutisch"
+        },
+        {
+          "country": "es",
+          "name": "médico y farmacéutico"
+        }
+      ]
+    },
+    {
+      "default_name": "music",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "âm nhạc"
+        },
+        {
+          "country": "en",
+          "name": "music"
+        },
+        {
+          "country": "de",
+          "name": "musik"
+        },
+        {
+          "country": "es",
+          "name": "música"
+        }
+      ]
+    },
+    {
+      "default_name": "nature",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "thiên nhiên"
+        },
+        {
+          "country": "en",
+          "name": "nature"
+        },
+        {
+          "country": "de",
+          "name": "natur"
+        },
+        {
+          "country": "es",
+          "name": "naturaleza"
+        }
+      ]
+    },
+    {
+      "default_name": "noel",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "giáng sinh"
+        },
+        {
+          "country": "en",
+          "name": "christmas"
+        },
+        {
+          "country": "de",
+          "name": "weihnachten"
+        },
+        {
+          "country": "es",
+          "name": "navidad"
+        }
+      ]
+    },
+    {
+      "default_name": "non-profit",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "phi lợi nhuận"
+        },
+        {
+          "country": "en",
+          "name": "non-profit"
+        },
+        {
+          "country": "de",
+          "name": "gemeinnützig"
+        },
+        {
+          "country": "es",
+          "name": "sin ánimo de lucro"
+        }
+      ]
+    },
+    {
+      "default_name": "religion",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "tôn giáo"
+        },
+        {
+          "country": "en",
+          "name": "religion"
+        },
+        {
+          "country": "de",
+          "name": "religion"
+        },
+        {
+          "country": "es",
+          "name": "religión"
+        }
+      ]
+    },
+    {
+      "default_name": "restaurant",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "nhà hàng"
+        },
+        {
+          "country": "en",
+          "name": "restaurant"
+        },
+        {
+          "country": "de",
+          "name": "restaurant"
+        },
+        {
+          "country": "es",
+          "name": "restaurante"
+        }
+      ]
+    },
+    {
+      "default_name": "retail & sale",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "bán lẻ"
+        },
+        {
+          "country": "en",
+          "name": "retail & sale"
+        },
+        {
+          "country": "de",
+          "name": "einzelverkauf"
+        },
+        {
+          "country": "es",
+          "name": "venta minorista y venta"
+        }
+      ]
+    },
+    {
+      "default_name": "science & technology",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "khoa học công nghệ"
+        },
+        {
+          "country": "en",
+          "name": "science & technology"
+        },
+        {
+          "country": "de",
+          "name": "wissenschaft & technologie"
+        },
+        {
+          "country": "es",
+          "name": "tecnología científica"
+        }
+      ]
+    },
+    {
+      "default_name": "storage",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "lưu trữ"
+        },
+        {
+          "country": "en",
+          "name": "storage"
+        },
+        {
+          "country": "de",
+          "name": "lager"
+        },
+        {
+          "country": "es",
+          "name": "almacenamiento"
+        }
+      ]
+    }
+  ]
+}
