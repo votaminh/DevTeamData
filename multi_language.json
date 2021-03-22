@@ -13,6 +13,10 @@
           "name": "abstract"
         },
         {
+          "country": "ko",
+          "name": "요약"
+        },
+        {
           "country": "ja",
           "name": "概要"
         },
@@ -48,6 +52,10 @@
         {
           "country": "en",
           "name": "agriculture"
+        },
+        {
+          "country": "ko",
+          "name": "농업"
         },
         {
           "country": "ja",
@@ -87,6 +95,10 @@
           "name": "animal"
         },
         {
+          "country": "ko",
+          "name": "동물"
+        },
+        {
           "country": "ja",
           "name": "動物"
         },
@@ -122,6 +134,10 @@
         {
           "country": "en",
           "name": "art"
+        },
+        {
+          "country": "ko",
+          "name": "미술"
         },
         {
           "country": "ja",
@@ -161,6 +177,10 @@
           "name": "attorney & law"
         },
         {
+          "country": "ko",
+          "name": "변호사 및 법률"
+        },
+        {
           "country": "ja",
           "name": "弁護士と法律"
         },
@@ -196,6 +216,10 @@
         {
           "country": "en",
           "name": "badge"
+        },
+        {
+          "country": "ko",
+          "name": "배지"
         },
         {
           "country": "ja",
@@ -235,6 +259,10 @@
           "name": "business & consulting"
         },
         {
+          "country": "ko",
+          "name": "비즈니스 컨설팅"
+        },
+        {
           "country": "ja",
           "name": "経営相談"
         },
@@ -270,6 +298,10 @@
         {
           "country": "en",
           "name": "car & auto"
+        },
+        {
+          "country": "ko",
+          "name": "자동차 및 자동차"
         },
         {
           "country": "ja",
@@ -309,6 +341,10 @@
           "name": "children & childcare"
         },
         {
+          "country": "ko",
+          "name": "어린이 및 보육"
+        },
+        {
           "country": "ja",
           "name": "子供と育児"
         },
@@ -344,6 +380,10 @@
         {
           "country": "en",
           "name": "club"
+        },
+        {
+          "country": "ko",
+          "name": "클럽"
         },
         {
           "country": "ja",
@@ -383,6 +423,10 @@
           "name": "communication"
         },
         {
+          "country": "ko",
+          "name": "통신"
+        },
+        {
           "country": "ja",
           "name": "コミュニケーション"
         },
@@ -418,6 +462,10 @@
         {
           "country": "en",
           "name": "company"
+        },
+        {
+          "country": "ko",
+          "name": "회사"
         },
         {
           "country": "ja",
@@ -457,6 +505,10 @@
           "name": "construction"
         },
         {
+          "country": "ko",
+          "name": "구성"
+        },
+        {
           "country": "ja",
           "name": "建設"
         },
@@ -492,6 +544,10 @@
         {
           "country": "en",
           "name": "education"
+        },
+        {
+          "country": "ko",
+          "name": "교육"
         },
         {
           "country": "ja",
@@ -531,6 +587,10 @@
           "name": "entertainment"
         },
         {
+          "country": "ko",
+          "name": "환대"
+        },
+        {
           "country": "ja",
           "name": "エンターテインメント"
         },
@@ -566,6 +626,10 @@
         {
           "country": "en",
           "name": "fashion & beauty"
+        },
+        {
+          "country": "ko",
+          "name": "패션 & 뷰티"
         },
         {
           "country": "ja",
@@ -605,6 +669,10 @@
           "name": "finance & insurance"
         },
         {
+          "country": "ko",
+          "name": "금융 및 보험"
+        },
+        {
           "country": "ja",
           "name": "金融と保険"
         },
@@ -642,6 +710,10 @@
           "name": "food"
         },
         {
+          "country": "ko",
+          "name": "음식"
+        },
+        {
           "country": "ja",
           "name": "食物"
         },
@@ -673,6 +745,10 @@
         {
           "country": "en",
           "name": "industrial"
+        },
+        {
+          "country": "ko",
+          "name": "산업"
         },
         {
           "country": "ja",
@@ -712,6 +788,10 @@
           "name": "life"
         },
         {
+          "country": "ko",
+          "name": "생명"
+        },
+        {
           "country": "ja",
           "name": "生活"
         },
@@ -747,6 +827,10 @@
         {
           "country": "en",
           "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "ko",
+          "name": "의료 및 제약"
         },
         {
           "country": "ja",
@@ -786,6 +870,10 @@
           "name": "music"
         },
         {
+          "country": "ko",
+          "name": "음악"
+        },
+        {
           "country": "ja",
           "name": "音楽"
         },
@@ -821,6 +909,10 @@
         {
           "country": "en",
           "name": "nature"
+        },
+        {
+          "country": "ko",
+          "name": "자연"
         },
         {
           "country": "ja",
@@ -860,6 +952,10 @@
           "name": "christmas"
         },
         {
+          "country": "ko",
+          "name": "크리스마스"
+        },
+        {
           "country": "ja",
           "name": "クリスマス"
         },
@@ -895,6 +991,10 @@
         {
           "country": "en",
           "name": "non-profit"
+        },
+        {
+          "country": "ko",
+          "name": "비영리"
         },
         {
           "country": "ja",
@@ -934,6 +1034,10 @@
           "name": "religion"
         },
         {
+          "country": "ko",
+          "name": "종교"
+        },
+        {
           "country": "ja",
           "name": "宗教"
         },
@@ -969,6 +1073,10 @@
         {
           "country": "en",
           "name": "restaurant"
+        },
+        {
+          "country": "ko",
+          "name": "레스토랑"
         },
         {
           "country": "ja",
@@ -1008,6 +1116,10 @@
           "name": "retail & sale"
         },
         {
+          "country": "ko",
+          "name": "판매"
+        },
+        {
           "country": "ja",
           "name": "小売＆販売"
         },
@@ -1045,6 +1157,10 @@
           "name": "science & technology"
         },
         {
+          "country": "ko",
+          "name": "과학 기술"
+        },
+        {
           "country": "ja",
           "name": "科学技術"
         },
@@ -1080,6 +1196,10 @@
         {
           "country": "en",
           "name": "storage"
+        },
+        {
+          "country": "ko",
+          "name": "저장"
         },
         {
           "country": "ja",
