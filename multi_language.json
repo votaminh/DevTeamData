@@ -13,6 +13,10 @@
           "name": "abstract"
         },
         {
+          "country": "in",
+          "name": "abstrak"
+        },
+        {
           "country": "fr",
           "name": "abstrait"
         },
@@ -40,6 +44,10 @@
         {
           "country": "en",
           "name": "agriculture"
+        },
+        {
+          "country": "in",
+          "name": "pertanian"
         },
         {
           "country": "fr",
@@ -71,6 +79,10 @@
           "name": "animal"
         },
         {
+          "country": "in",
+          "name": "satwa"
+        },
+        {
           "country": "fr",
           "name": "animale"
         },
@@ -98,6 +110,10 @@
         {
           "country": "en",
           "name": "art"
+        },
+        {
+          "country": "in",
+          "name": "seni"
         },
         {
           "country": "fr",
@@ -129,6 +145,10 @@
           "name": "attorney & law"
         },
         {
+          "country": "in",
+          "name": "pengacara & hukum"
+        },
+        {
           "country": "fr",
           "name": "avocat et droit"
         },
@@ -156,6 +176,10 @@
         {
           "country": "en",
           "name": "badge"
+        },
+        {
+          "country": "in",
+          "name": "lencana"
         },
         {
           "country": "fr",
@@ -187,6 +211,10 @@
           "name": "business & consulting"
         },
         {
+          "country": "in",
+          "name": "bisnis & konsultasi"
+        },
+        {
           "country": "fr",
           "name": "Conseil aux entreprises"
         },
@@ -214,6 +242,10 @@
         {
           "country": "en",
           "name": "car & auto"
+        },
+        {
+          "country": "in",
+          "name": "mobil & otomotif"
         },
         {
           "country": "fr",
@@ -245,6 +277,10 @@
           "name": "children & childcare"
         },
         {
+          "country": "in",
+          "name": "anak-anak & perawatan anak"
+        },
+        {
           "country": "fr",
           "name": "enfants et garde d'enfants"
         },
@@ -272,6 +308,10 @@
         {
           "country": "en",
           "name": "club"
+        },
+        {
+          "country": "in",
+          "name": "klub"
         },
         {
           "country": "fr",
@@ -303,6 +343,10 @@
           "name": "communication"
         },
         {
+          "country": "in",
+          "name": "komunikasi"
+        },
+        {
           "country": "fr",
           "name": "la communication"
         },
@@ -330,6 +374,10 @@
         {
           "country": "en",
           "name": "company"
+        },
+        {
+          "country": "in",
+          "name": "perusahaan"
         },
         {
           "country": "fr",
@@ -361,6 +409,10 @@
           "name": "construction"
         },
         {
+          "country": "in",
+          "name": "konstruksi"
+        },
+        {
           "country": "fr",
           "name": "construction"
         },
@@ -388,6 +440,10 @@
         {
           "country": "en",
           "name": "education"
+        },
+        {
+          "country": "in",
+          "name": "pendidikan"
         },
         {
           "country": "fr",
@@ -419,6 +475,10 @@
           "name": "entertainment"
         },
         {
+          "country": "in",
+          "name": "hiburan"
+        },
+        {
           "country": "fr",
           "name": "divertissement"
         },
@@ -446,6 +506,10 @@
         {
           "country": "en",
           "name": "fashion & beauty"
+        },
+        {
+          "country": "in",
+          "name": "fashion & kecantikan"
         },
         {
           "country": "fr",
@@ -477,6 +541,10 @@
           "name": "finance & insurance"
         },
         {
+          "country": "in",
+          "name": "keuangan & asuransi"
+        },
+        {
           "country": "fr",
           "name": "finance et assurance"
         },
@@ -506,6 +574,10 @@
           "name": "food"
         },
         {
+          "country": "in",
+          "name": "makanan"
+        },
+        {
           "country": "fr",
           "name": "food"
         },
@@ -529,6 +601,10 @@
         {
           "country": "en",
           "name": "industrial"
+        },
+        {
+          "country": "in",
+          "name": "industri"
         },
         {
           "country": "fr",
@@ -560,6 +636,10 @@
           "name": "life"
         },
         {
+          "country": "in",
+          "name": "kehidupan"
+        },
+        {
           "country": "fr",
           "name": "la vie"
         },
@@ -587,6 +667,10 @@
         {
           "country": "en",
           "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "in",
+          "name": "medis & farmasi"
         },
         {
           "country": "fr",
@@ -618,6 +702,10 @@
           "name": "music"
         },
         {
+          "country": "in",
+          "name": "musik"
+        },
+        {
           "country": "fr",
           "name": "musique"
         },
@@ -645,6 +733,10 @@
         {
           "country": "en",
           "name": "nature"
+        },
+        {
+          "country": "in",
+          "name": "alam"
         },
         {
           "country": "fr",
@@ -676,6 +768,10 @@
           "name": "christmas"
         },
         {
+          "country": "in",
+          "name": "hari Natal"
+        },
+        {
           "country": "fr",
           "name": "Noël"
         },
@@ -703,6 +799,10 @@
         {
           "country": "en",
           "name": "non-profit"
+        },
+        {
+          "country": "in",
+          "name": "nirlaba"
         },
         {
           "country": "fr",
@@ -734,6 +834,10 @@
           "name": "religion"
         },
         {
+          "country": "in",
+          "name": "agama"
+        },
+        {
           "country": "fr",
           "name": "religion"
         },
@@ -761,6 +865,10 @@
         {
           "country": "en",
           "name": "restaurant"
+        },
+        {
+          "country": "in",
+          "name": "restoran"
         },
         {
           "country": "fr",
@@ -792,6 +900,10 @@
           "name": "retail & sale"
         },
         {
+          "country": "in",
+          "name": "penjualan eceran"
+        },
+        {
           "country": "fr",
           "name": "la vente au détail"
         },
@@ -821,6 +933,10 @@
           "name": "science & technology"
         },
         {
+          "country": "in",
+          "name": "sains & teknologi"
+        },
+        {
           "country": "fr",
           "name": "technologie scientifique"
         },
@@ -848,6 +964,10 @@
         {
           "country": "en",
           "name": "storage"
+        },
+        {
+          "country": "in",
+          "name": "penyimpanan"
         },
         {
           "country": "fr",
