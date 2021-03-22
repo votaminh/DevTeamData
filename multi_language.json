@@ -13,6 +13,10 @@
           "name": "abstract"
         },
         {
+          "country": "pt",
+          "name": "resumo"
+        },
+        {
           "country": "ko",
           "name": "요약"
         },
@@ -54,6 +58,10 @@
           "name": "agriculture"
         },
         {
+          "country": "pt",
+          "name": "agricultura"
+        },
+        {
           "country": "ko",
           "name": "농업"
         },
@@ -92,6 +100,10 @@
         },
         {
           "country": "en",
+          "name": "animal"
+        },
+        {
+          "country": "pt",
           "name": "animal"
         },
         {
@@ -136,6 +148,10 @@
           "name": "art"
         },
         {
+          "country": "pt",
+          "name": "arte"
+        },
+        {
           "country": "ko",
           "name": "미술"
         },
@@ -175,6 +191,10 @@
         {
           "country": "en",
           "name": "attorney & law"
+        },
+        {
+          "country": "pt",
+          "name": "advogado e lei"
         },
         {
           "country": "ko",
@@ -218,6 +238,10 @@
           "name": "badge"
         },
         {
+          "country": "pt",
+          "name": "distintivo"
+        },
+        {
           "country": "ko",
           "name": "배지"
         },
@@ -257,6 +281,10 @@
         {
           "country": "en",
           "name": "business & consulting"
+        },
+        {
+          "country": "pt",
+          "name": "consultoria de negócios"
         },
         {
           "country": "ko",
@@ -300,6 +328,10 @@
           "name": "car & auto"
         },
         {
+          "country": "pt",
+          "name": "carro e auto"
+        },
+        {
           "country": "ko",
           "name": "자동차 및 자동차"
         },
@@ -339,6 +371,10 @@
         {
           "country": "en",
           "name": "children & childcare"
+        },
+        {
+          "country": "pt",
+          "name": "crianças e cuidados infantis"
         },
         {
           "country": "ko",
@@ -382,6 +418,10 @@
           "name": "club"
         },
         {
+          "country": "pt",
+          "name": "clube"
+        },
+        {
           "country": "ko",
           "name": "클럽"
         },
@@ -421,6 +461,10 @@
         {
           "country": "en",
           "name": "communication"
+        },
+        {
+          "country": "pt",
+          "name": "comunicação"
         },
         {
           "country": "ko",
@@ -464,6 +508,10 @@
           "name": "company"
         },
         {
+          "country": "pt",
+          "name": "companhia"
+        },
+        {
           "country": "ko",
           "name": "회사"
         },
@@ -503,6 +551,10 @@
         {
           "country": "en",
           "name": "construction"
+        },
+        {
+          "country": "pt",
+          "name": "construção"
         },
         {
           "country": "ko",
@@ -546,6 +598,10 @@
           "name": "education"
         },
         {
+          "country": "pt",
+          "name": "Educação"
+        },
+        {
           "country": "ko",
           "name": "교육"
         },
@@ -585,6 +641,10 @@
         {
           "country": "en",
           "name": "entertainment"
+        },
+        {
+          "country": "pt",
+          "name": "entretenimento"
         },
         {
           "country": "ko",
@@ -628,6 +688,10 @@
           "name": "fashion & beauty"
         },
         {
+          "country": "pt",
+          "name": "moda e beleza"
+        },
+        {
           "country": "ko",
           "name": "패션 & 뷰티"
         },
@@ -667,6 +731,10 @@
         {
           "country": "en",
           "name": "finance & insurance"
+        },
+        {
+          "country": "pt",
+          "name": "finanças e seguros"
         },
         {
           "country": "ko",
@@ -710,6 +778,10 @@
           "name": "food"
         },
         {
+          "country": "pt",
+          "name": "Comida"
+        },
+        {
           "country": "ko",
           "name": "음식"
         },
@@ -744,6 +816,10 @@
         },
         {
           "country": "en",
+          "name": "industrial"
+        },
+        {
+          "country": "pt",
           "name": "industrial"
         },
         {
@@ -788,6 +864,10 @@
           "name": "life"
         },
         {
+          "country": "pt",
+          "name": "vida"
+        },
+        {
           "country": "ko",
           "name": "생명"
         },
@@ -827,6 +907,10 @@
         {
           "country": "en",
           "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "pt",
+          "name": "médico e farmacêutico"
         },
         {
           "country": "ko",
@@ -870,6 +954,10 @@
           "name": "music"
         },
         {
+          "country": "pt",
+          "name": "música"
+        },
+        {
           "country": "ko",
           "name": "음악"
         },
@@ -909,6 +997,10 @@
         {
           "country": "en",
           "name": "nature"
+        },
+        {
+          "country": "pt",
+          "name": "natureza"
         },
         {
           "country": "ko",
@@ -952,6 +1044,10 @@
           "name": "christmas"
         },
         {
+          "country": "pt",
+          "name": "Natal"
+        },
+        {
           "country": "ko",
           "name": "크리스마스"
         },
@@ -991,6 +1087,10 @@
         {
           "country": "en",
           "name": "non-profit"
+        },
+        {
+          "country": "pt",
+          "name": "sem fins lucrativos"
         },
         {
           "country": "ko",
@@ -1034,6 +1134,10 @@
           "name": "religion"
         },
         {
+          "country": "pt",
+          "name": "religião"
+        },
+        {
           "country": "ko",
           "name": "종교"
         },
@@ -1073,6 +1177,10 @@
         {
           "country": "en",
           "name": "restaurant"
+        },
+        {
+          "country": "pt",
+          "name": "restaurante"
         },
         {
           "country": "ko",
@@ -1116,6 +1224,10 @@
           "name": "retail & sale"
         },
         {
+          "country": "pt",
+          "name": "venda a retalho"
+        },
+        {
           "country": "ko",
           "name": "판매"
         },
@@ -1157,6 +1269,10 @@
           "name": "science & technology"
         },
         {
+          "country": "pt",
+          "name": "tecnologia científica"
+        },
+        {
           "country": "ko",
           "name": "과학 기술"
         },
@@ -1196,6 +1312,10 @@
         {
           "country": "en",
           "name": "storage"
+        },
+        {
+          "country": "pt",
+          "name": "armazenar"
         },
         {
           "country": "ko",
