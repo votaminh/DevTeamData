@@ -13,6 +13,10 @@
           "name": "abstract"
         },
         {
+          "country": "fil",
+          "name": "mahirap unawain"
+        },
+        {
           "country": "de",
           "name": "abstrakt"
         },
@@ -32,6 +36,10 @@
         {
           "country": "en",
           "name": "agriculture"
+        },
+        {
+          "country": "fil",
+          "name": "agrikultura"
         },
         {
           "country": "de",
@@ -55,6 +63,10 @@
           "name": "animal"
         },
         {
+          "country": "fil",
+          "name": "hayop"
+        },
+        {
           "country": "de",
           "name": "tier"
         },
@@ -74,6 +86,10 @@
         {
           "country": "en",
           "name": "art"
+        },
+        {
+          "country": "fil",
+          "name": "arte"
         },
         {
           "country": "de",
@@ -97,6 +113,10 @@
           "name": "attorney & law"
         },
         {
+          "country": "fil",
+          "name": "abugado at batas"
+        },
+        {
           "country": "de",
           "name": "anwälte & gesetze"
         },
@@ -115,6 +135,10 @@
         },
         {
           "country": "en",
+          "name": "badge"
+        },
+        {
+          "country": "fil",
           "name": "badge"
         },
         {
@@ -139,6 +163,10 @@
           "name": "business & consulting"
         },
         {
+          "country": "fil",
+          "name": "negosyo at pagkonsulta"
+        },
+        {
           "country": "de",
           "name": "Unternehmensberatung"
         },
@@ -158,6 +186,10 @@
         {
           "country": "en",
           "name": "car & auto"
+        },
+        {
+          "country": "fil",
+          "name": "kotse at sasakyan"
         },
         {
           "country": "de",
@@ -181,6 +213,10 @@
           "name": "children & childcare"
         },
         {
+          "country": "fil",
+          "name": "mga bata at pangangalaga sa bata"
+        },
+        {
           "country": "de",
           "name": "kinder & kinderbetreuung"
         },
@@ -199,6 +235,10 @@
         },
         {
           "country": "en",
+          "name": "club"
+        },
+        {
+          "country": "fil",
           "name": "club"
         },
         {
@@ -223,6 +263,10 @@
           "name": "communication"
         },
         {
+          "country": "fil",
+          "name": "komunikasyon"
+        },
+        {
           "country": "de",
           "name": "kommunikation"
         },
@@ -242,6 +286,10 @@
         {
           "country": "en",
           "name": "company"
+        },
+        {
+          "country": "fil",
+          "name": "kumpanya"
         },
         {
           "country": "de",
@@ -265,6 +313,10 @@
           "name": "construction"
         },
         {
+          "country": "fil",
+          "name": "konstruksyon"
+        },
+        {
           "country": "de",
           "name": "konstruktion"
         },
@@ -284,6 +336,10 @@
         {
           "country": "en",
           "name": "education"
+        },
+        {
+          "country": "fil",
+          "name": "edukasyon"
         },
         {
           "country": "de",
@@ -307,6 +363,10 @@
           "name": "entertainment"
         },
         {
+          "country": "fil",
+          "name": "aliwan"
+        },
+        {
           "country": "de",
           "name": "unterhaltung"
         },
@@ -326,6 +386,10 @@
         {
           "country": "en",
           "name": "fashion & beauty"
+        },
+        {
+          "country": "fil",
+          "name": "fashion at kagandahan"
         },
         {
           "country": "de",
@@ -349,6 +413,10 @@
           "name": "finance & insurance"
         },
         {
+          "country": "fil",
+          "name": "pananalapi at seguro"
+        },
+        {
           "country": "de",
           "name": "finanzen & versicherungen"
         },
@@ -370,6 +438,10 @@
           "name": "food"
         },
         {
+          "country": "fil",
+          "name": "pagkain"
+        },
+        {
           "country": "de",
           "name": "lebensmittel"
         }
@@ -385,6 +457,10 @@
         {
           "country": "en",
           "name": "industrial"
+        },
+        {
+          "country": "fil",
+          "name": "pang-industriya"
         },
         {
           "country": "de",
@@ -408,6 +484,10 @@
           "name": "life"
         },
         {
+          "country": "fil",
+          "name": "buhay"
+        },
+        {
           "country": "de",
           "name": "leben"
         },
@@ -427,6 +507,10 @@
         {
           "country": "en",
           "name": "medical & pharmaceutical"
+        },
+        {
+          "country": "fil",
+          "name": "medikal at parmasyutiko"
         },
         {
           "country": "de",
@@ -450,6 +534,10 @@
           "name": "music"
         },
         {
+          "country": "fil",
+          "name": "musika"
+        },
+        {
           "country": "de",
           "name": "musik"
         },
@@ -469,6 +557,10 @@
         {
           "country": "en",
           "name": "nature"
+        },
+        {
+          "country": "fil",
+          "name": "kalikasan"
         },
         {
           "country": "de",
@@ -492,6 +584,10 @@
           "name": "christmas"
         },
         {
+          "country": "fil",
+          "name": "pasko"
+        },
+        {
           "country": "de",
           "name": "weihnachten"
         },
@@ -510,6 +606,10 @@
         },
         {
           "country": "en",
+          "name": "non-profit"
+        },
+        {
+          "country": "fil",
           "name": "non-profit"
         },
         {
@@ -534,6 +634,10 @@
           "name": "religion"
         },
         {
+          "country": "fil",
+          "name": "relihiyon"
+        },
+        {
           "country": "de",
           "name": "religion"
         },
@@ -553,6 +657,10 @@
         {
           "country": "en",
           "name": "restaurant"
+        },
+        {
+          "country": "fil",
+          "name": "restawran"
         },
         {
           "country": "de",
@@ -576,6 +684,10 @@
           "name": "retail & sale"
         },
         {
+          "country": "fil",
+          "name": "tingian at pagbebenta"
+        },
+        {
           "country": "de",
           "name": "einzelverkauf"
         },
@@ -597,6 +709,10 @@
           "name": "science & technology"
         },
         {
+          "country": "fil",
+          "name": "agham at teknolohiya"
+        },
+        {
           "country": "de",
           "name": "wissenschaft & technologie"
         },
@@ -616,6 +732,10 @@
         {
           "country": "en",
           "name": "storage"
+        },
+        {
+          "country": "fil",
+          "name": "pag-iimbak"
         },
         {
           "country": "de",
