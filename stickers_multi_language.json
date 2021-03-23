@@ -27,6 +27,19 @@
       ]
     },
     {
+      "default_name": "Lifestyle",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Cách sống"
+        },
+        {
+          "country": "en",
+          "name": "Lifestyle"
+        }
+      ]
+    },
+    {
       "default_name": "Active Lifestyle",
       "multi_language": [
         {
