@@ -14,6 +14,19 @@
       ]
     },
     {
+      "default_name": "Bussiness",
+      "multi_language": [
+        {
+          "country": "vi",
+          "name": "Kinh doanh"
+        },
+        {
+          "country": "en",
+          "name": "Bussiness"
+        }
+      ]
+    },
+    {
       "default_name": "Active Lifestyle",
       "multi_language": [
         {
