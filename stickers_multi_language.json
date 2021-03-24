@@ -12,6 +12,10 @@
           "name": "abstract"
         },
         {
+          "country": "fr",
+          "name": "abstrait"
+        },
+        {
           "country": "fil",
           "name": "mahirap unawain"
         },
@@ -35,6 +39,10 @@
         {
           "country": "en",
           "name": "Bussiness"
+        },
+        {
+          "country": "fr",
+          "name": "Affaires"
         },
         {
           "country": "fil",
@@ -62,6 +70,10 @@
           "name": "Lifestyle"
         },
         {
+          "country": "fr",
+          "name": "Mode de vie"
+        },
+        {
           "country": "fil",
           "name": "Lifestyle"
         },
@@ -87,6 +99,10 @@
           "name": "Active Lifestyle"
         },
         {
+          "country": "fr",
+          "name": "Mode de vie actif"
+        },
+        {
           "country": "fil",
           "name": "Aktibong Pamumuhay"
         },
@@ -109,6 +125,10 @@
         },
         {
           "country": "en",
+          "name": "Alphabet"
+        },
+        {
+          "country": "fr",
           "name": "Alphabet"
         },
         {
@@ -137,6 +157,10 @@
           "name": "Alphanumerics"
         },
         {
+          "country": "fr",
+          "name": "Alphanumériques"
+        },
+        {
           "country": "fil",
           "name": "Alphanumerics"
         },
@@ -159,6 +183,10 @@
         },
         {
           "country": "en",
+          "name": "Animal"
+        },
+        {
+          "country": "fr",
           "name": "Animal"
         },
         {
@@ -187,6 +215,10 @@
           "name": "Arabic"
         },
         {
+          "country": "fr",
+          "name": "arabe"
+        },
+        {
           "country": "fil",
           "name": "Arabe"
         },
@@ -209,6 +241,10 @@
         },
         {
           "country": "en",
+          "name": "Architecture"
+        },
+        {
+          "country": "fr",
           "name": "Architecture"
         },
         {
@@ -237,6 +273,10 @@
           "name": "Art"
         },
         {
+          "country": "fr",
+          "name": "Art"
+        },
+        {
           "country": "fil",
           "name": "Art"
         },
@@ -260,6 +300,10 @@
         {
           "country": "en",
           "name": "Artist"
+        },
+        {
+          "country": "fr",
+          "name": "Artiste"
         },
         {
           "country": "fil",
@@ -287,6 +331,10 @@
           "name": "Auto Mobile"
         },
         {
+          "country": "fr",
+          "name": "Voiture"
+        },
+        {
           "country": "fil",
           "name": "Auto Mobile"
         },
@@ -309,6 +357,10 @@
         },
         {
           "country": "en",
+          "name": "Badge"
+        },
+        {
+          "country": "fr",
           "name": "Badge"
         },
         {
@@ -337,6 +389,10 @@
           "name": "Bakery"
         },
         {
+          "country": "fr",
+          "name": "Boulangerie"
+        },
+        {
           "country": "fil",
           "name": "Bakery"
         },
@@ -360,6 +416,10 @@
         {
           "country": "en",
           "name": "Barber"
+        },
+        {
+          "country": "fr",
+          "name": "Coiffeur"
         },
         {
           "country": "fil",
@@ -387,6 +447,10 @@
           "name": "Basket"
         },
         {
+          "country": "fr",
+          "name": "Panier"
+        },
+        {
           "country": "fil",
           "name": "Basket"
         },
@@ -410,6 +474,10 @@
         {
           "country": "en",
           "name": "Beauty"
+        },
+        {
+          "country": "fr",
+          "name": "Beauté"
         },
         {
           "country": "fil",
@@ -437,6 +505,10 @@
           "name": "Bird"
         },
         {
+          "country": "fr",
+          "name": "Oiseau"
+        },
+        {
           "country": "fil",
           "name": "Ibon"
         },
@@ -460,6 +532,10 @@
         {
           "country": "en",
           "name": "Birthday"
+        },
+        {
+          "country": "fr",
+          "name": "Date d'anniversaire"
         },
         {
           "country": "fil",
@@ -487,6 +563,10 @@
           "name": "Black"
         },
         {
+          "country": "fr",
+          "name": "Noir"
+        },
+        {
           "country": "fil",
           "name": "Itim"
         },
@@ -510,6 +590,10 @@
         {
           "country": "en",
           "name": "Book"
+        },
+        {
+          "country": "fr",
+          "name": "Noir"
         },
         {
           "country": "fil",
@@ -537,6 +621,10 @@
           "name": "Camera"
         },
         {
+          "country": "fr",
+          "name": "Caméra"
+        },
+        {
           "country": "fil",
           "name": "Kamera"
         },
@@ -560,6 +648,10 @@
         {
           "country": "en",
           "name": "Cars"
+        },
+        {
+          "country": "fr",
+          "name": "Voitures"
         },
         {
           "country": "fil",
@@ -587,6 +679,10 @@
           "name": "Cartoon"
         },
         {
+          "country": "fr",
+          "name": "Dessin animé"
+        },
+        {
           "country": "fil",
           "name": "Cartoon"
         },
@@ -612,6 +708,10 @@
           "name": "Caution"
         },
         {
+          "country": "fr",
+          "name": "Mise en garde"
+        },
+        {
           "country": "fil",
           "name": "Pag-iingat"
         },
@@ -634,6 +734,10 @@
         },
         {
           "country": "en",
+          "name": "Chef"
+        },
+        {
+          "country": "fr",
           "name": "Chef"
         },
         {
@@ -662,6 +766,10 @@
           "name": "Church"
         },
         {
+          "country": "fr",
+          "name": "Église"
+        },
+        {
           "country": "fil",
           "name": "Simbahan"
         },
@@ -685,6 +793,10 @@
         {
           "country": "en",
           "name": "Circle"
+        },
+        {
+          "country": "fr",
+          "name": "Cercle"
         },
         {
           "country": "fil",
@@ -712,6 +824,10 @@
           "name": "Coffee"
         },
         {
+          "country": "fr",
+          "name": "Café"
+        },
+        {
           "country": "fil",
           "name": "Kape"
         },
@@ -735,6 +851,10 @@
         {
           "country": "en",
           "name": "Colourful"
+        },
+        {
+          "country": "fr",
+          "name": "Coloré"
         },
         {
           "country": "fil",
@@ -762,6 +882,10 @@
           "name": "Common"
         },
         {
+          "country": "fr",
+          "name": "Commun"
+        },
+        {
           "country": "fil",
           "name": "Karaniwan"
         },
@@ -787,6 +911,10 @@
           "name": "Computer Class"
         },
         {
+          "country": "fr",
+          "name": "Cours d'informatique"
+        },
+        {
           "country": "fil",
           "name": "Klase sa Computer"
         },
@@ -809,6 +937,10 @@
         },
         {
           "country": "en",
+          "name": "Construction"
+        },
+        {
+          "country": "fr",
           "name": "Construction"
         },
         {
@@ -837,6 +969,10 @@
           "name": "Creative"
         },
         {
+          "country": "fr",
+          "name": "Créatif"
+        },
+        {
           "country": "fil",
           "name": "Malikhain"
         },
@@ -860,6 +996,10 @@
         {
           "country": "en",
           "name": "Crown"
+        },
+        {
+          "country": "fr",
+          "name": "couronner"
         },
         {
           "country": "fil",
@@ -887,6 +1027,10 @@
           "name": "Daily"
         },
         {
+          "country": "fr",
+          "name": "Quotidien"
+        },
+        {
           "country": "fil",
           "name": "Araw-araw"
         },
@@ -910,6 +1054,10 @@
         {
           "country": "en",
           "name": "Dangerous"
+        },
+        {
+          "country": "fr",
+          "name": "Dangereux"
         },
         {
           "country": "fil",
@@ -937,6 +1085,10 @@
           "name": "Decoration"
         },
         {
+          "country": "fr",
+          "name": "Décoration"
+        },
+        {
           "country": "fil",
           "name": "Palamuti"
         },
@@ -960,6 +1112,10 @@
         {
           "country": "en",
           "name": "Development"
+        },
+        {
+          "country": "fr",
+          "name": "Développement"
         },
         {
           "country": "fil",
@@ -987,6 +1143,10 @@
           "name": "Education"
         },
         {
+          "country": "fr",
+          "name": "Éducation"
+        },
+        {
           "country": "fil",
           "name": "Edukasyon"
         },
@@ -1012,6 +1172,10 @@
           "name": "Election"
         },
         {
+          "country": "fr",
+          "name": "Élection"
+        },
+        {
           "country": "fil",
           "name": "Eleksyon"
         },
@@ -1034,6 +1198,10 @@
         },
         {
           "country": "en",
+          "name": "Emoji"
+        },
+        {
+          "country": "fr",
           "name": "Emoji"
         },
         {
@@ -1062,6 +1230,10 @@
           "name": "Entertainment"
         },
         {
+          "country": "fr",
+          "name": "Divertissement"
+        },
+        {
           "country": "fil",
           "name": "Aliwan"
         },
@@ -1085,6 +1257,10 @@
         {
           "country": "en",
           "name": "Event"
+        },
+        {
+          "country": "fr",
+          "name": "Événement"
         },
         {
           "country": "fil",
@@ -1112,6 +1288,10 @@
           "name": "Farm"
         },
         {
+          "country": "fr",
+          "name": "Cultiver"
+        },
+        {
           "country": "fil",
           "name": "Sakahan"
         },
@@ -1135,6 +1315,10 @@
         {
           "country": "en",
           "name": "Fashion"
+        },
+        {
+          "country": "fr",
+          "name": "Mode"
         },
         {
           "country": "fil",
@@ -1162,6 +1346,10 @@
           "name": "Feather"
         },
         {
+          "country": "fr",
+          "name": "Plume"
+        },
+        {
           "country": "fil",
           "name": "Balahibo"
         },
@@ -1185,6 +1373,10 @@
         {
           "country": "en",
           "name": "Fish"
+        },
+        {
+          "country": "fr",
+          "name": "Poisson"
         },
         {
           "country": "fil",
@@ -1212,6 +1404,10 @@
           "name": "Flag"
         },
         {
+          "country": "fr",
+          "name": "Drapeau"
+        },
+        {
           "country": "fil",
           "name": "mga watawat"
         },
@@ -1235,6 +1431,10 @@
         {
           "country": "en",
           "name": "Flowers"
+        },
+        {
+          "country": "fr",
+          "name": "Fleurs"
         },
         {
           "country": "fil",
@@ -1262,6 +1462,10 @@
           "name": "Food"
         },
         {
+          "country": "fr",
+          "name": "Aliments"
+        },
+        {
           "country": "fil",
           "name": "Pagkain"
         },
@@ -1285,6 +1489,10 @@
         {
           "country": "en",
           "name": "Fooddrink"
+        },
+        {
+          "country": "fr",
+          "name": "Nourriture boisson"
         },
         {
           "country": "fil",
@@ -1312,6 +1520,10 @@
           "name": "Furniture"
         },
         {
+          "country": "fr",
+          "name": "Meubles"
+        },
+        {
           "country": "fil",
           "name": "Muwebles"
         },
@@ -1335,6 +1547,10 @@
         {
           "country": "en",
           "name": "Game 1"
+        },
+        {
+          "country": "fr",
+          "name": "Jeu 1"
         },
         {
           "country": "fil",
@@ -1362,6 +1578,10 @@
           "name": "Game 2"
         },
         {
+          "country": "fr",
+          "name": "Jeu 2"
+        },
+        {
           "country": "fil",
           "name": "Laro 2"
         },
@@ -1387,6 +1607,10 @@
           "name": "Gun"
         },
         {
+          "country": "fr",
+          "name": "Arme à feu"
+        },
+        {
           "country": "fil",
           "name": "Baril"
         },
@@ -1409,6 +1633,10 @@
         },
         {
           "country": "en",
+          "name": "Gym"
+        },
+        {
+          "country": "fr",
           "name": "Gym"
         },
         {
@@ -1437,6 +1665,10 @@
           "name": "Hair Style"
         },
         {
+          "country": "fr",
+          "name": "Style de cheveux"
+        },
+        {
           "country": "fil",
           "name": "Estilo ng Buhok"
         },
@@ -1460,6 +1692,10 @@
         {
           "country": "en",
           "name": "Hand"
+        },
+        {
+          "country": "fr",
+          "name": "Main"
         },
         {
           "country": "fil",
@@ -1487,6 +1723,10 @@
           "name": "Health"
         },
         {
+          "country": "fr",
+          "name": "Santé"
+        },
+        {
           "country": "fil",
           "name": "Kalusugan"
         },
@@ -1510,6 +1750,10 @@
         {
           "country": "en",
           "name": "Hearts"
+        },
+        {
+          "country": "fr",
+          "name": "Cœurs"
         },
         {
           "country": "fil",
@@ -1537,6 +1781,10 @@
           "name": "Holiday"
         },
         {
+          "country": "fr",
+          "name": "Vacances"
+        },
+        {
           "country": "fil",
           "name": "Holiday"
         },
@@ -1560,6 +1808,10 @@
         {
           "country": "en",
           "name": "House"
+        },
+        {
+          "country": "fr",
+          "name": "loger"
         },
         {
           "country": "fil",
@@ -1587,6 +1839,10 @@
           "name": "Iconic"
         },
         {
+          "country": "fr",
+          "name": "Iconique"
+        },
+        {
           "country": "fil",
           "name": "Iconic"
         },
@@ -1610,6 +1866,10 @@
         {
           "country": "en",
           "name": "Industry"
+        },
+        {
+          "country": "fr",
+          "name": "Industrie"
         },
         {
           "country": "fil",
@@ -1637,6 +1897,10 @@
           "name": "Infinity"
         },
         {
+          "country": "fr",
+          "name": "Infini"
+        },
+        {
           "country": "fil",
           "name": "Kawalang-hanggan"
         },
@@ -1660,6 +1924,10 @@
         {
           "country": "en",
           "name": "Innovative Idea"
+        },
+        {
+          "country": "fr",
+          "name": "Idée innovante"
         },
         {
           "country": "fil",
@@ -1687,6 +1955,10 @@
           "name": "Jewellery"
         },
         {
+          "country": "fr",
+          "name": "Bijoux"
+        },
+        {
           "country": "fil",
           "name": "Alahas"
         },
@@ -1710,6 +1982,10 @@
         {
           "country": "en",
           "name": "Kids"
+        },
+        {
+          "country": "fr",
+          "name": "Enfants"
         },
         {
           "country": "fil",
@@ -1737,6 +2013,10 @@
           "name": "Kids Alphabet"
         },
         {
+          "country": "fr",
+          "name": "Alphabet pour enfants"
+        },
+        {
           "country": "fil",
           "name": "Alphabet ng Mga Bata"
         },
@@ -1760,6 +2040,10 @@
         {
           "country": "en",
           "name": "Kitchen"
+        },
+        {
+          "country": "fr",
+          "name": "Cuisine"
         },
         {
           "country": "fil",
@@ -1787,6 +2071,10 @@
           "name": "Law"
         },
         {
+          "country": "fr",
+          "name": "Droit"
+        },
+        {
           "country": "fil",
           "name": "Batas"
         },
@@ -1810,6 +2098,10 @@
         {
           "country": "en",
           "name": "Leaves"
+        },
+        {
+          "country": "fr",
+          "name": "Feuilles"
         },
         {
           "country": "fil",
@@ -1837,6 +2129,10 @@
           "name": "Lineal ribbons"
         },
         {
+          "country": "fr",
+          "name": "Rubans linéaires"
+        },
+        {
           "country": "fil",
           "name": "Mga linya ng laso"
         },
@@ -1860,6 +2156,10 @@
         {
           "country": "en",
           "name": "Love"
+        },
+        {
+          "country": "fr",
+          "name": "Aimer"
         },
         {
           "country": "fil",
@@ -1887,6 +2187,10 @@
           "name": "Makeup"
         },
         {
+          "country": "fr",
+          "name": "Se réconcilier"
+        },
+        {
           "country": "fil",
           "name": "Makeup"
         },
@@ -1910,6 +2214,10 @@
         {
           "country": "en",
           "name": "Management"
+        },
+        {
+          "country": "fr",
+          "name": "Gestion"
         },
         {
           "country": "fil",
@@ -1937,6 +2245,10 @@
           "name": "Marketing"
         },
         {
+          "country": "fr",
+          "name": "Commercialisation"
+        },
+        {
           "country": "fil",
           "name": "Marketing"
         },
@@ -1960,6 +2272,10 @@
         {
           "country": "en",
           "name": "Martial Art"
+        },
+        {
+          "country": "fr",
+          "name": "Art martial"
         },
         {
           "country": "fil",
@@ -1987,6 +2303,10 @@
           "name": "Mascot"
         },
         {
+          "country": "fr",
+          "name": "Mascotte"
+        },
+        {
           "country": "fil",
           "name": "Maskot"
         },
@@ -2010,6 +2330,10 @@
         {
           "country": "en",
           "name": "Mother"
+        },
+        {
+          "country": "fr",
+          "name": "Mère"
         },
         {
           "country": "fil",
@@ -2037,6 +2361,10 @@
           "name": "Music"
         },
         {
+          "country": "fr",
+          "name": "Musique"
+        },
+        {
           "country": "fil",
           "name": "Musika"
         },
@@ -2062,6 +2390,10 @@
           "name": "Nature"
         },
         {
+          "country": "fr",
+          "name": "La nature"
+        },
+        {
           "country": "fil",
           "name": "Kalikasan"
         },
@@ -2084,6 +2416,10 @@
         },
         {
           "country": "en",
+          "name": "Unknow1"
+        },
+        {
+          "country": "fr",
           "name": "Unknow1"
         },
         {
@@ -2112,6 +2448,10 @@
           "name": "Ngo"
         },
         {
+          "country": "fr",
+          "name": "Ngo"
+        },
+        {
           "country": "fil",
           "name": "Ngo"
         },
@@ -2135,6 +2475,10 @@
         {
           "country": "en",
           "name": "Christmas"
+        },
+        {
+          "country": "fr",
+          "name": "Noël"
         },
         {
           "country": "fil",
@@ -2162,6 +2506,10 @@
           "name": "Online Shop"
         },
         {
+          "country": "fr",
+          "name": "Magasin en ligne"
+        },
+        {
           "country": "fil",
           "name": "Online Shop"
         },
@@ -2185,6 +2533,10 @@
         {
           "country": "en",
           "name": "Organization"
+        },
+        {
+          "country": "fr",
+          "name": "Organisation"
         },
         {
           "country": "fil",
@@ -2212,6 +2564,10 @@
           "name": "Paint"
         },
         {
+          "country": "fr",
+          "name": "Peindre"
+        },
+        {
           "country": "fil",
           "name": "Pintura"
         },
@@ -2235,6 +2591,10 @@
         {
           "country": "en",
           "name": "Party"
+        },
+        {
+          "country": "fr",
+          "name": "Faire la fête"
         },
         {
           "country": "fil",
@@ -2262,6 +2622,10 @@
           "name": "People"
         },
         {
+          "country": "fr",
+          "name": "Gens"
+        },
+        {
           "country": "fil",
           "name": "Mga tao"
         },
@@ -2285,6 +2649,10 @@
         {
           "country": "en",
           "name": "Perfume"
+        },
+        {
+          "country": "fr",
+          "name": "Parfum"
         },
         {
           "country": "fil",
@@ -2312,6 +2680,10 @@
           "name": "Photography"
         },
         {
+          "country": "fr",
+          "name": "La photographie"
+        },
+        {
           "country": "fil",
           "name": "Photography"
         },
@@ -2334,6 +2706,10 @@
         },
         {
           "country": "en",
+          "name": "Polygonal"
+        },
+        {
+          "country": "fr",
           "name": "Polygonal"
         },
         {
@@ -2362,6 +2738,10 @@
           "name": "Property"
         },
         {
+          "country": "fr",
+          "name": "Biens"
+        },
+        {
           "country": "fil",
           "name": "Pag-aari"
         },
@@ -2387,6 +2767,10 @@
           "name": "Quote"
         },
         {
+          "country": "fr",
+          "name": "Citation"
+        },
+        {
           "country": "fil",
           "name": "Quote"
         },
@@ -2409,6 +2793,10 @@
         },
         {
           "country": "en",
+          "name": "Ramadan"
+        },
+        {
+          "country": "fr",
           "name": "Ramadan"
         },
         {
@@ -2437,6 +2825,10 @@
           "name": "Real Estate"
         },
         {
+          "country": "fr",
+          "name": "Immobilier"
+        },
+        {
           "country": "fil",
           "name": "Real Estate"
         },
@@ -2460,6 +2852,10 @@
         {
           "country": "en",
           "name": "Restaurant"
+        },
+        {
+          "country": "fr",
+          "name": "Le restaurant"
         },
         {
           "country": "fil",
@@ -2487,6 +2883,10 @@
           "name": "Ribbon"
         },
         {
+          "country": "fr",
+          "name": "Ruban"
+        },
+        {
           "country": "fil",
           "name": "Laso"
         },
@@ -2510,6 +2910,10 @@
         {
           "country": "en",
           "name": "Sakura Festival"
+        },
+        {
+          "country": "fr",
+          "name": "Festival de Sakura"
         },
         {
           "country": "fil",
@@ -2537,6 +2941,10 @@
           "name": "Shapes"
         },
         {
+          "country": "fr",
+          "name": "Formes"
+        },
+        {
           "country": "fil",
           "name": "Mga Hugis"
         },
@@ -2560,6 +2968,10 @@
         {
           "country": "en",
           "name": "Shoes"
+        },
+        {
+          "country": "fr",
+          "name": "Des chaussures"
         },
         {
           "country": "fil",
@@ -2587,6 +2999,10 @@
           "name": "Shop"
         },
         {
+          "country": "fr",
+          "name": "Magasin"
+        },
+        {
           "country": "fil",
           "name": "Mamili"
         },
@@ -2610,6 +3026,10 @@
         {
           "country": "en",
           "name": "Skull"
+        },
+        {
+          "country": "fr",
+          "name": "Le crâne"
         },
         {
           "country": "fil",
@@ -2637,6 +3057,10 @@
           "name": "Soccer"
         },
         {
+          "country": "fr",
+          "name": "Le football"
+        },
+        {
           "country": "fil",
           "name": "Soccer"
         },
@@ -2659,6 +3083,10 @@
         },
         {
           "country": "en",
+          "name": "Social"
+        },
+        {
+          "country": "fr",
           "name": "Social"
         },
         {
@@ -2687,6 +3115,10 @@
           "name": "Sound Wave"
         },
         {
+          "country": "fr",
+          "name": "Onde sonore"
+        },
+        {
           "country": "fil",
           "name": "Sound Wave"
         },
@@ -2710,6 +3142,10 @@
         {
           "country": "en",
           "name": "Space"
+        },
+        {
+          "country": "fr",
+          "name": "Espacer"
         },
         {
           "country": "fil",
@@ -2737,6 +3173,10 @@
           "name": "Special"
         },
         {
+          "country": "fr",
+          "name": "Spécial"
+        },
+        {
           "country": "fil",
           "name": "Espesyal"
         },
@@ -2760,6 +3200,10 @@
         {
           "country": "en",
           "name": "Sport 1"
+        },
+        {
+          "country": "fr",
+          "name": "sport 1"
         },
         {
           "country": "fil",
@@ -2787,6 +3231,10 @@
           "name": "Sport 2"
         },
         {
+          "country": "fr",
+          "name": "sport 2"
+        },
+        {
           "country": "fil",
           "name": "Palakasan 2"
         },
@@ -2809,6 +3257,10 @@
         },
         {
           "country": "en",
+          "name": "Star"
+        },
+        {
+          "country": "fr",
           "name": "Star"
         },
         {
@@ -2837,6 +3289,10 @@
           "name": "Stationary"
         },
         {
+          "country": "fr",
+          "name": "Stationnaire"
+        },
+        {
           "country": "fil",
           "name": "Nakatigil"
         },
@@ -2860,6 +3316,10 @@
         {
           "country": "en",
           "name": "Summertime"
+        },
+        {
+          "country": "fr",
+          "name": "Heure d'été"
         },
         {
           "country": "fil",
@@ -2887,6 +3347,10 @@
           "name": "Tattoos"
         },
         {
+          "country": "fr",
+          "name": "Tatouages"
+        },
+        {
           "country": "fil",
           "name": "Mga tattoo"
         },
@@ -2910,6 +3374,10 @@
         {
           "country": "en",
           "name": "Technology"
+        },
+        {
+          "country": "fr",
+          "name": "La technologie"
         },
         {
           "country": "fil",
@@ -2937,6 +3405,10 @@
           "name": "Think"
         },
         {
+          "country": "fr",
+          "name": "Pense"
+        },
+        {
           "country": "fil",
           "name": "Isipin mo"
         },
@@ -2960,6 +3432,10 @@
         {
           "country": "en",
           "name": "Toy"
+        },
+        {
+          "country": "fr",
+          "name": "Jouet"
         },
         {
           "country": "fil",
@@ -2987,6 +3463,10 @@
           "name": "Tractor"
         },
         {
+          "country": "fr",
+          "name": "Tracteur"
+        },
+        {
           "country": "fil",
           "name": "Traktor"
         },
@@ -3010,6 +3490,10 @@
         {
           "country": "en",
           "name": "Travel"
+        },
+        {
+          "country": "fr",
+          "name": "Voyage"
         },
         {
           "country": "fil",
@@ -3037,6 +3521,10 @@
           "name": "Tribal Mask"
         },
         {
+          "country": "fr",
+          "name": "Masque tribal"
+        },
+        {
           "country": "fil",
           "name": "Tribal Mask"
         },
@@ -3059,6 +3547,10 @@
         },
         {
           "country": "en",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "fr",
           "name": "Unknow 2"
         },
         {
@@ -3087,6 +3579,10 @@
           "name": "Vegetable"
         },
         {
+          "country": "fr",
+          "name": "Légume"
+        },
+        {
           "country": "fil",
           "name": "Gulay"
         },
@@ -3109,6 +3605,10 @@
         },
         {
           "country": "en",
+          "name": "Vintage"
+        },
+        {
+          "country": "fr",
           "name": "Vintage"
         },
         {
@@ -3137,6 +3637,10 @@
           "name": "Water color"
         },
         {
+          "country": "fr",
+          "name": "Aquarelle"
+        },
+        {
           "country": "fil",
           "name": "Kulay ng tubig"
         },
@@ -3162,6 +3666,10 @@
           "name": "Wood"
         },
         {
+          "country": "fr",
+          "name": "Bois"
+        },
+        {
           "country": "fil",
           "name": "Kahoy"
         },
@@ -3185,6 +3693,10 @@
         {
           "country": "en",
           "name": "Worker"
+        },
+        {
+          "country": "fr",
+          "name": "Ouvrier"
         },
         {
           "country": "fil",
