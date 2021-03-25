@@ -12,6 +12,10 @@
           "name": "abstract"
         },
         {
+          "country": "ko",
+          "name": "추출"
+        },
+        {
           "country": "ja",
           "name": "概要"
         },
@@ -47,6 +51,10 @@
         {
           "country": "en",
           "name": "Bussiness"
+        },
+        {
+          "country": "ko",
+          "name": "비즈니스"
         },
         {
           "country": "ja",
@@ -86,6 +94,10 @@
           "name": "Lifestyle"
         },
         {
+          "country": "ko",
+          "name": "생활 양식"
+        },
+        {
           "country": "ja",
           "name": "ライフスタイル"
         },
@@ -121,6 +133,10 @@
         {
           "country": "en",
           "name": "Active Lifestyle"
+        },
+        {
+          "country": "ko",
+          "name": "활동적인 라이프 스타일"
         },
         {
           "country": "ja",
@@ -160,6 +176,10 @@
           "name": "Alphabet"
         },
         {
+          "country": "ko",
+          "name": "알파벳"
+        },
+        {
           "country": "ja",
           "name": "アルファベット"
         },
@@ -195,6 +215,10 @@
         {
           "country": "en",
           "name": "Alphanumerics"
+        },
+        {
+          "country": "ko",
+          "name": "영숫자"
         },
         {
           "country": "ja",
@@ -234,6 +258,10 @@
           "name": "Animal"
         },
         {
+          "country": "ko",
+          "name": "동물"
+        },
+        {
           "country": "ja",
           "name": "動物"
         },
@@ -269,6 +297,10 @@
         {
           "country": "en",
           "name": "Arabic"
+        },
+        {
+          "country": "ko",
+          "name": "아라비아 말"
         },
         {
           "country": "ja",
@@ -308,6 +340,10 @@
           "name": "Architecture"
         },
         {
+          "country": "ko",
+          "name": "건축물"
+        },
+        {
           "country": "ja",
           "name": "建築"
         },
@@ -343,6 +379,10 @@
         {
           "country": "en",
           "name": "Art"
+        },
+        {
+          "country": "ko",
+          "name": "미술"
         },
         {
           "country": "ja",
@@ -382,6 +422,10 @@
           "name": "Artist"
         },
         {
+          "country": "ko",
+          "name": "예술가"
+        },
+        {
           "country": "ja",
           "name": "アーティスト"
         },
@@ -417,6 +461,10 @@
         {
           "country": "en",
           "name": "Auto Mobile"
+        },
+        {
+          "country": "ko",
+          "name": "자동 모바일"
         },
         {
           "country": "ja",
@@ -456,6 +504,10 @@
           "name": "Badge"
         },
         {
+          "country": "ko",
+          "name": "배지"
+        },
+        {
           "country": "ja",
           "name": "バッジ"
         },
@@ -491,6 +543,10 @@
         {
           "country": "en",
           "name": "Bakery"
+        },
+        {
+          "country": "ko",
+          "name": "빵집"
         },
         {
           "country": "ja",
@@ -530,6 +586,10 @@
           "name": "Barber"
         },
         {
+          "country": "ko",
+          "name": "이발사"
+        },
+        {
           "country": "ja",
           "name": "床屋"
         },
@@ -565,6 +625,10 @@
         {
           "country": "en",
           "name": "Basket"
+        },
+        {
+          "country": "ko",
+          "name": "바구니"
         },
         {
           "country": "ja",
@@ -604,6 +668,10 @@
           "name": "Beauty"
         },
         {
+          "country": "ko",
+          "name": "아름다움"
+        },
+        {
           "country": "ja",
           "name": "美しさ"
         },
@@ -639,6 +707,10 @@
         {
           "country": "en",
           "name": "Bird"
+        },
+        {
+          "country": "ko",
+          "name": "새"
         },
         {
           "country": "ja",
@@ -678,6 +750,10 @@
           "name": "Birthday"
         },
         {
+          "country": "ko",
+          "name": "생신"
+        },
+        {
           "country": "ja",
           "name": "お誕生日"
         },
@@ -713,6 +789,10 @@
         {
           "country": "en",
           "name": "Black"
+        },
+        {
+          "country": "ko",
+          "name": "검정"
         },
         {
           "country": "ja",
@@ -752,6 +832,10 @@
           "name": "Book"
         },
         {
+          "country": "ko",
+          "name": "책"
+        },
+        {
           "country": "ja",
           "name": "本"
         },
@@ -787,6 +871,10 @@
         {
           "country": "en",
           "name": "Camera"
+        },
+        {
+          "country": "ko",
+          "name": "카메라"
         },
         {
           "country": "ja",
@@ -826,6 +914,10 @@
           "name": "Cars"
         },
         {
+          "country": "ko",
+          "name": "자동차"
+        },
+        {
           "country": "ja",
           "name": "車"
         },
@@ -861,6 +953,10 @@
         {
           "country": "en",
           "name": "Cartoon"
+        },
+        {
+          "country": "ko",
+          "name": "만화"
         },
         {
           "country": "ja",
@@ -900,6 +996,10 @@
           "name": "Caution"
         },
         {
+          "country": "ko",
+          "name": "주의"
+        },
+        {
           "country": "ja",
           "name": "注意"
         },
@@ -935,6 +1035,10 @@
         {
           "country": "en",
           "name": "Chef"
+        },
+        {
+          "country": "ko",
+          "name": "요리사"
         },
         {
           "country": "ja",
@@ -974,6 +1078,10 @@
           "name": "Church"
         },
         {
+          "country": "ko",
+          "name": "교회에"
+        },
+        {
           "country": "ja",
           "name": "教会"
         },
@@ -1009,6 +1117,10 @@
         {
           "country": "en",
           "name": "Circle"
+        },
+        {
+          "country": "ko",
+          "name": "원"
         },
         {
           "country": "ja",
@@ -1048,6 +1160,10 @@
           "name": "Coffee"
         },
         {
+          "country": "ko",
+          "name": "커피"
+        },
+        {
           "country": "ja",
           "name": "コーヒー"
         },
@@ -1083,6 +1199,10 @@
         {
           "country": "en",
           "name": "Colourful"
+        },
+        {
+          "country": "ko",
+          "name": "화려한"
         },
         {
           "country": "ja",
@@ -1122,6 +1242,10 @@
           "name": "Common"
         },
         {
+          "country": "ko",
+          "name": "흔한"
+        },
+        {
           "country": "ja",
           "name": "一般"
         },
@@ -1157,6 +1281,10 @@
         {
           "country": "en",
           "name": "Computer Class"
+        },
+        {
+          "country": "ko",
+          "name": "컴퓨터 수업"
         },
         {
           "country": "ja",
@@ -1196,6 +1324,10 @@
           "name": "Construction"
         },
         {
+          "country": "ko",
+          "name": "구성"
+        },
+        {
           "country": "ja",
           "name": "建設"
         },
@@ -1231,6 +1363,10 @@
         {
           "country": "en",
           "name": "Creative"
+        },
+        {
+          "country": "ko",
+          "name": "크리에이티브"
         },
         {
           "country": "ja",
@@ -1270,6 +1406,10 @@
           "name": "Crown"
         },
         {
+          "country": "ko",
+          "name": "왕관"
+        },
+        {
           "country": "ja",
           "name": "クラウン"
         },
@@ -1305,6 +1445,10 @@
         {
           "country": "en",
           "name": "Daily"
+        },
+        {
+          "country": "ko",
+          "name": "매일"
         },
         {
           "country": "ja",
@@ -1344,6 +1488,10 @@
           "name": "Dangerous"
         },
         {
+          "country": "ko",
+          "name": "위험한"
+        },
+        {
           "country": "ja",
           "name": "危険な"
         },
@@ -1379,6 +1527,10 @@
         {
           "country": "en",
           "name": "Decoration"
+        },
+        {
+          "country": "ko",
+          "name": "장식"
         },
         {
           "country": "ja",
@@ -1418,6 +1570,10 @@
           "name": "Development"
         },
         {
+          "country": "ko",
+          "name": "개발"
+        },
+        {
           "country": "ja",
           "name": "開発"
         },
@@ -1453,6 +1609,10 @@
         {
           "country": "en",
           "name": "Education"
+        },
+        {
+          "country": "ko",
+          "name": "교육"
         },
         {
           "country": "ja",
@@ -1492,6 +1652,10 @@
           "name": "Election"
         },
         {
+          "country": "ko",
+          "name": "선거"
+        },
+        {
           "country": "ja",
           "name": "選挙"
         },
@@ -1527,6 +1691,10 @@
         {
           "country": "en",
           "name": "Emoji"
+        },
+        {
+          "country": "ko",
+          "name": "이모티콘"
         },
         {
           "country": "ja",
@@ -1566,6 +1734,10 @@
           "name": "Entertainment"
         },
         {
+          "country": "ko",
+          "name": "환대"
+        },
+        {
           "country": "ja",
           "name": "エンターテインメント"
         },
@@ -1601,6 +1773,10 @@
         {
           "country": "en",
           "name": "Event"
+        },
+        {
+          "country": "ko",
+          "name": "행사"
         },
         {
           "country": "ja",
@@ -1640,6 +1816,10 @@
           "name": "Farm"
         },
         {
+          "country": "ko",
+          "name": "농장"
+        },
+        {
           "country": "ja",
           "name": "ファーム"
         },
@@ -1675,6 +1855,10 @@
         {
           "country": "en",
           "name": "Fashion"
+        },
+        {
+          "country": "ko",
+          "name": "패션"
         },
         {
           "country": "ja",
@@ -1714,6 +1898,10 @@
           "name": "Feather"
         },
         {
+          "country": "ko",
+          "name": "깃"
+        },
+        {
           "country": "ja",
           "name": "フェザー"
         },
@@ -1749,6 +1937,10 @@
         {
           "country": "en",
           "name": "Fish"
+        },
+        {
+          "country": "ko",
+          "name": "물고기"
         },
         {
           "country": "ja",
@@ -1788,6 +1980,10 @@
           "name": "Flag"
         },
         {
+          "country": "ko",
+          "name": "깃발"
+        },
+        {
           "country": "ja",
           "name": "国旗"
         },
@@ -1823,6 +2019,10 @@
         {
           "country": "en",
           "name": "Flowers"
+        },
+        {
+          "country": "ko",
+          "name": "꽃들"
         },
         {
           "country": "ja",
@@ -1862,6 +2062,10 @@
           "name": "Food"
         },
         {
+          "country": "ko",
+          "name": "음식"
+        },
+        {
           "country": "ja",
           "name": "食物"
         },
@@ -1897,6 +2101,10 @@
         {
           "country": "en",
           "name": "Fooddrink"
+        },
+        {
+          "country": "ko",
+          "name": "식음료"
         },
         {
           "country": "ja",
@@ -1936,6 +2144,10 @@
           "name": "Furniture"
         },
         {
+          "country": "ko",
+          "name": "가구"
+        },
+        {
           "country": "ja",
           "name": "家具"
         },
@@ -1971,6 +2183,10 @@
         {
           "country": "en",
           "name": "Game 1"
+        },
+        {
+          "country": "ko",
+          "name": "경기 1"
         },
         {
           "country": "ja",
@@ -2010,6 +2226,10 @@
           "name": "Game 2"
         },
         {
+          "country": "ko",
+          "name": "경기 2"
+        },
+        {
           "country": "ja",
           "name": "ゲーム 2"
         },
@@ -2045,6 +2265,10 @@
         {
           "country": "en",
           "name": "Gun"
+        },
+        {
+          "country": "ko",
+          "name": "총"
         },
         {
           "country": "ja",
@@ -2084,6 +2308,10 @@
           "name": "Gym"
         },
         {
+          "country": "ko",
+          "name": "헬스장"
+        },
+        {
           "country": "ja",
           "name": "ジム"
         },
@@ -2119,6 +2347,10 @@
         {
           "country": "en",
           "name": "Hair Style"
+        },
+        {
+          "country": "ko",
+          "name": "헤어 스타일"
         },
         {
           "country": "ja",
@@ -2158,6 +2390,10 @@
           "name": "Hand"
         },
         {
+          "country": "ko",
+          "name": "손"
+        },
+        {
           "country": "ja",
           "name": "手"
         },
@@ -2193,6 +2429,10 @@
         {
           "country": "en",
           "name": "Health"
+        },
+        {
+          "country": "ko",
+          "name": "건강"
         },
         {
           "country": "ja",
@@ -2232,6 +2472,10 @@
           "name": "Hearts"
         },
         {
+          "country": "ko",
+          "name": "하트"
+        },
+        {
           "country": "ja",
           "name": "ハーツ"
         },
@@ -2267,6 +2511,10 @@
         {
           "country": "en",
           "name": "Holiday"
+        },
+        {
+          "country": "ko",
+          "name": "휴일"
         },
         {
           "country": "ja",
@@ -2306,6 +2554,10 @@
           "name": "House"
         },
         {
+          "country": "ko",
+          "name": "집"
+        },
+        {
           "country": "ja",
           "name": "家"
         },
@@ -2341,6 +2593,10 @@
         {
           "country": "en",
           "name": "Iconic"
+        },
+        {
+          "country": "ko",
+          "name": "상의"
         },
         {
           "country": "ja",
@@ -2380,6 +2636,10 @@
           "name": "Industry"
         },
         {
+          "country": "ko",
+          "name": "산업"
+        },
+        {
           "country": "ja",
           "name": "業界"
         },
@@ -2415,6 +2675,10 @@
         {
           "country": "en",
           "name": "Infinity"
+        },
+        {
+          "country": "ko",
+          "name": "무한대"
         },
         {
           "country": "ja",
@@ -2454,6 +2718,10 @@
           "name": "Innovative Idea"
         },
         {
+          "country": "ko",
+          "name": "혁신적인 아이디어"
+        },
+        {
           "country": "ja",
           "name": "革新的なアイデア"
         },
@@ -2489,6 +2757,10 @@
         {
           "country": "en",
           "name": "Jewellery"
+        },
+        {
+          "country": "ko",
+          "name": "보석류"
         },
         {
           "country": "ja",
@@ -2528,6 +2800,10 @@
           "name": "Kids"
         },
         {
+          "country": "ko",
+          "name": "키즈"
+        },
+        {
           "country": "ja",
           "name": "キッズ"
         },
@@ -2563,6 +2839,10 @@
         {
           "country": "en",
           "name": "Kids Alphabet"
+        },
+        {
+          "country": "ko",
+          "name": "키즈 알파벳"
         },
         {
           "country": "ja",
@@ -2602,6 +2882,10 @@
           "name": "Kitchen"
         },
         {
+          "country": "ko",
+          "name": "부엌"
+        },
+        {
           "country": "ja",
           "name": "キッチン"
         },
@@ -2637,6 +2921,10 @@
         {
           "country": "en",
           "name": "Law"
+        },
+        {
+          "country": "ko",
+          "name": "법"
         },
         {
           "country": "ja",
@@ -2676,6 +2964,10 @@
           "name": "Leaves"
         },
         {
+          "country": "ko",
+          "name": "이파리"
+        },
+        {
           "country": "ja",
           "name": "葉"
         },
@@ -2711,6 +3003,10 @@
         {
           "country": "en",
           "name": "Lineal ribbons"
+        },
+        {
+          "country": "ko",
+          "name": "직계 리본"
         },
         {
           "country": "ja",
@@ -2750,6 +3046,10 @@
           "name": "Love"
         },
         {
+          "country": "ko",
+          "name": "사랑"
+        },
+        {
           "country": "ja",
           "name": "愛"
         },
@@ -2785,6 +3085,10 @@
         {
           "country": "en",
           "name": "Makeup"
+        },
+        {
+          "country": "ko",
+          "name": "구성하다"
         },
         {
           "country": "ja",
@@ -2824,6 +3128,10 @@
           "name": "Management"
         },
         {
+          "country": "ko",
+          "name": "조치"
+        },
+        {
           "country": "ja",
           "name": "管理"
         },
@@ -2859,6 +3167,10 @@
         {
           "country": "en",
           "name": "Marketing"
+        },
+        {
+          "country": "ko",
+          "name": "마케팅"
         },
         {
           "country": "ja",
@@ -2898,6 +3210,10 @@
           "name": "Martial Art"
         },
         {
+          "country": "ko",
+          "name": "무술"
+        },
+        {
           "country": "ja",
           "name": "武道"
         },
@@ -2933,6 +3249,10 @@
         {
           "country": "en",
           "name": "Mascot"
+        },
+        {
+          "country": "ko",
+          "name": "마스코트"
         },
         {
           "country": "ja",
@@ -2972,6 +3292,10 @@
           "name": "Mother"
         },
         {
+          "country": "ko",
+          "name": "어머니"
+        },
+        {
           "country": "ja",
           "name": "母"
         },
@@ -3007,6 +3331,10 @@
         {
           "country": "en",
           "name": "Music"
+        },
+        {
+          "country": "ko",
+          "name": "음악"
         },
         {
           "country": "ja",
@@ -3046,6 +3374,10 @@
           "name": "Nature"
         },
         {
+          "country": "ko",
+          "name": "자연"
+        },
+        {
           "country": "ja",
           "name": "自然"
         },
@@ -3080,6 +3412,10 @@
         },
         {
           "country": "en",
+          "name": "Unknow1"
+        },
+        {
+          "country": "ko",
           "name": "Unknow1"
         },
         {
@@ -3120,6 +3456,10 @@
           "name": "Ngo"
         },
         {
+          "country": "ko",
+          "name": "Ngo"
+        },
+        {
           "country": "ja",
           "name": "Ngo"
         },
@@ -3155,6 +3495,10 @@
         {
           "country": "en",
           "name": "Christmas"
+        },
+        {
+          "country": "ko",
+          "name": "크리스마스"
         },
         {
           "country": "ja",
@@ -3194,6 +3538,10 @@
           "name": "Online Shop"
         },
         {
+          "country": "ko",
+          "name": "온라인 상점"
+        },
+        {
           "country": "ja",
           "name": "オンラインショップ"
         },
@@ -3229,6 +3577,10 @@
         {
           "country": "en",
           "name": "Organization"
+        },
+        {
+          "country": "ko",
+          "name": "조직"
         },
         {
           "country": "ja",
@@ -3268,6 +3620,10 @@
           "name": "Paint"
         },
         {
+          "country": "ko",
+          "name": "페인트"
+        },
+        {
           "country": "ja",
           "name": "ペイント"
         },
@@ -3303,6 +3659,10 @@
         {
           "country": "en",
           "name": "Party"
+        },
+        {
+          "country": "ko",
+          "name": "파티"
         },
         {
           "country": "ja",
@@ -3342,6 +3702,10 @@
           "name": "People"
         },
         {
+          "country": "ko",
+          "name": "사람들"
+        },
+        {
           "country": "ja",
           "name": "人"
         },
@@ -3377,6 +3741,10 @@
         {
           "country": "en",
           "name": "Perfume"
+        },
+        {
+          "country": "ko",
+          "name": "향수"
         },
         {
           "country": "ja",
@@ -3416,6 +3784,10 @@
           "name": "Photography"
         },
         {
+          "country": "ko",
+          "name": "사진술"
+        },
+        {
           "country": "ja",
           "name": "写真"
         },
@@ -3451,6 +3823,10 @@
         {
           "country": "en",
           "name": "Polygonal"
+        },
+        {
+          "country": "ko",
+          "name": "다각형"
         },
         {
           "country": "ja",
@@ -3490,6 +3866,10 @@
           "name": "Property"
         },
         {
+          "country": "ko",
+          "name": "특성"
+        },
+        {
           "country": "ja",
           "name": "プロパティ"
         },
@@ -3525,6 +3905,10 @@
         {
           "country": "en",
           "name": "Quote"
+        },
+        {
+          "country": "ko",
+          "name": "인용문"
         },
         {
           "country": "ja",
@@ -3564,6 +3948,10 @@
           "name": "Ramadan"
         },
         {
+          "country": "ko",
+          "name": "라마단"
+        },
+        {
           "country": "ja",
           "name": "ラマダン"
         },
@@ -3599,6 +3987,10 @@
         {
           "country": "en",
           "name": "Real Estate"
+        },
+        {
+          "country": "ko",
+          "name": "부동산"
         },
         {
           "country": "ja",
@@ -3638,6 +4030,10 @@
           "name": "Restaurant"
         },
         {
+          "country": "ko",
+          "name": "레스토랑"
+        },
+        {
           "country": "ja",
           "name": "レストラン"
         },
@@ -3673,6 +4069,10 @@
         {
           "country": "en",
           "name": "Ribbon"
+        },
+        {
+          "country": "ko",
+          "name": "리본"
         },
         {
           "country": "ja",
@@ -3712,6 +4112,10 @@
           "name": "Sakura Festival"
         },
         {
+          "country": "ko",
+          "name": "사쿠라 축제"
+        },
+        {
           "country": "ja",
           "name": "さくらまつり"
         },
@@ -3747,6 +4151,10 @@
         {
           "country": "en",
           "name": "Shapes"
+        },
+        {
+          "country": "ko",
+          "name": "모양"
         },
         {
           "country": "ja",
@@ -3786,6 +4194,10 @@
           "name": "Shoes"
         },
         {
+          "country": "ko",
+          "name": "신발"
+        },
+        {
           "country": "ja",
           "name": "靴"
         },
@@ -3821,6 +4233,10 @@
         {
           "country": "en",
           "name": "Shop"
+        },
+        {
+          "country": "ko",
+          "name": "가게"
         },
         {
           "country": "ja",
@@ -3860,6 +4276,10 @@
           "name": "Skull"
         },
         {
+          "country": "ko",
+          "name": "두개골"
+        },
+        {
           "country": "ja",
           "name": "頭蓋骨"
         },
@@ -3895,6 +4315,10 @@
         {
           "country": "en",
           "name": "Soccer"
+        },
+        {
+          "country": "ko",
+          "name": "축구"
         },
         {
           "country": "ja",
@@ -3934,6 +4358,10 @@
           "name": "Social"
         },
         {
+          "country": "ko",
+          "name": "사회적인"
+        },
+        {
           "country": "ja",
           "name": "ソーシャル"
         },
@@ -3969,6 +4397,10 @@
         {
           "country": "en",
           "name": "Sound Wave"
+        },
+        {
+          "country": "ko",
+          "name": "음파"
         },
         {
           "country": "ja",
@@ -4008,6 +4440,10 @@
           "name": "Space"
         },
         {
+          "country": "ko",
+          "name": "우주"
+        },
+        {
           "country": "ja",
           "name": "スペース"
         },
@@ -4043,6 +4479,10 @@
         {
           "country": "en",
           "name": "Special"
+        },
+        {
+          "country": "ko",
+          "name": "특별한"
         },
         {
           "country": "ja",
@@ -4082,6 +4522,10 @@
           "name": "Sport 1"
         },
         {
+          "country": "ko",
+          "name": "스포츠 1"
+        },
+        {
           "country": "ja",
           "name": "スポーツ 1"
         },
@@ -4117,6 +4561,10 @@
         {
           "country": "en",
           "name": "Sport 2"
+        },
+        {
+          "country": "ko",
+          "name": "스포츠 2"
         },
         {
           "country": "ja",
@@ -4156,6 +4604,10 @@
           "name": "Star"
         },
         {
+          "country": "ko",
+          "name": "별"
+        },
+        {
           "country": "ja",
           "name": "星"
         },
@@ -4191,6 +4643,10 @@
         {
           "country": "en",
           "name": "Stationary"
+        },
+        {
+          "country": "ko",
+          "name": "변화 없는"
         },
         {
           "country": "ja",
@@ -4230,6 +4686,10 @@
           "name": "Summertime"
         },
         {
+          "country": "ko",
+          "name": "하계"
+        },
+        {
           "country": "ja",
           "name": "夏時間"
         },
@@ -4265,6 +4725,10 @@
         {
           "country": "en",
           "name": "Tattoos"
+        },
+        {
+          "country": "ko",
+          "name": "문신"
         },
         {
           "country": "ja",
@@ -4304,6 +4768,10 @@
           "name": "Technology"
         },
         {
+          "country": "ko",
+          "name": "과학 기술"
+        },
+        {
           "country": "ja",
           "name": "技術"
         },
@@ -4339,6 +4807,10 @@
         {
           "country": "en",
           "name": "Think"
+        },
+        {
+          "country": "ko",
+          "name": "생각한다"
         },
         {
           "country": "ja",
@@ -4378,6 +4850,10 @@
           "name": "Toy"
         },
         {
+          "country": "ko",
+          "name": "장난감"
+        },
+        {
           "country": "ja",
           "name": "おもちゃ"
         },
@@ -4413,6 +4889,10 @@
         {
           "country": "en",
           "name": "Tractor"
+        },
+        {
+          "country": "ko",
+          "name": "트랙터"
         },
         {
           "country": "ja",
@@ -4452,6 +4932,10 @@
           "name": "Travel"
         },
         {
+          "country": "ko",
+          "name": "여행"
+        },
+        {
           "country": "ja",
           "name": "トラベル"
         },
@@ -4489,6 +4973,10 @@
           "name": "Tribal Mask"
         },
         {
+          "country": "ko",
+          "name": "부족 가면"
+        },
+        {
           "country": "ja",
           "name": "部族マスク"
         },
@@ -4523,6 +5011,10 @@
         },
         {
           "country": "en",
+          "name": "Unknow 2"
+        },
+        {
+          "country": "ko",
           "name": "Unknow 2"
         },
         {
@@ -4563,6 +5055,10 @@
           "name": "Vegetable"
         },
         {
+          "country": "ko",
+          "name": "야채"
+        },
+        {
           "country": "ja",
           "name": "野菜"
         },
@@ -4598,6 +5094,10 @@
         {
           "country": "en",
           "name": "Vintage"
+        },
+        {
+          "country": "ko",
+          "name": "포도 수확"
         },
         {
           "country": "ja",
@@ -4637,6 +5137,10 @@
           "name": "Water color"
         },
         {
+          "country": "ko",
+          "name": "물 색깔"
+        },
+        {
           "country": "ja",
           "name": "水の色"
         },
@@ -4674,6 +5178,10 @@
           "name": "Wood"
         },
         {
+          "country": "ko",
+          "name": "목재"
+        },
+        {
           "country": "ja",
           "name": "木材"
         },
@@ -4709,6 +5217,10 @@
         {
           "country": "en",
           "name": "Worker"
+        },
+        {
+          "country": "ko",
+          "name": "노동자"
         },
         {
           "country": "ja",
