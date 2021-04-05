@@ -1,1 +1,3 @@
-roman,Disney,cursiva,thai,Steam Punk,Myanmar, italic,t shir, zombie
+roman,Disney,cursiva,thai,Steam Punk,Myanmar, italic,t shir, zombie, number, smoke
+Ice cream, korea, balok Extra bold italic, tatto, mexico, Baroque, casuall, metal, CASSUAL
+Sport, Tennis, calligraphy, drip, Itálico
