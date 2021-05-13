@@ -1,60 +1,64 @@
 {
   "data": [
+{
+      "tag": "tamil",
+      "isNew": true
+    },
     {
       "tag": "america",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "crystal sky",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "disney",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "dj",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "drip",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "esport",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "graffiti",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "gujarati",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "horor",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "japan",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "korean",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "retro",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "rock",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "thai",
-      "isNew": true
+      "isNew": false
     },
     {
       "tag": "paint",
