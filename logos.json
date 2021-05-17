@@ -21,7 +21,7 @@
         {
           "template_name": "1620115064513",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620115090313",
@@ -56,7 +56,7 @@
         {
           "template_name": "1620115522082",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620115571305",
@@ -76,7 +76,7 @@
         {
           "template_name": "1620115769800",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620115798239",
@@ -111,7 +111,7 @@
         {
           "template_name": "1620116008618",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620116060922",
@@ -141,7 +141,7 @@
         {
           "template_name": "1620116216119",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620116249432",
@@ -161,7 +161,7 @@
         {
           "template_name": "1620117710509",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620118973190",
@@ -176,12 +176,12 @@
         {
           "template_name": "1620119044976",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119075048",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119109163",
@@ -191,7 +191,7 @@
         {
           "template_name": "1620119134357",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119163664",
@@ -201,7 +201,7 @@
         {
           "template_name": "1620119198276",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119233843",
@@ -221,7 +221,7 @@
         {
           "template_name": "1620119320821",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119352141",
@@ -231,7 +231,7 @@
         {
           "template_name": "1620119464820",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119501756",
@@ -251,7 +251,7 @@
         {
           "template_name": "1620119591860",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620119647432",
@@ -261,7 +261,7 @@
         {
           "template_name": "1620119699865",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620120358244",
@@ -271,7 +271,7 @@
         {
           "template_name": "1620120389620",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620120434741",
@@ -281,7 +281,7 @@
         {
           "template_name": "1620120462028",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620120488499",
@@ -291,7 +291,7 @@
         {
           "template_name": "1620120523444",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620120651674",
@@ -306,7 +306,7 @@
         {
           "template_name": "1620120781586",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1620120819964",
@@ -346,7 +346,7 @@
         {
           "template_name": "1618498439824",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618498476619",
@@ -376,7 +376,7 @@
         {
           "template_name": "1618498990035",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499121204",
@@ -386,7 +386,7 @@
         {
           "template_name": "1618499214009",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499261784",
@@ -436,7 +436,7 @@
         {
           "template_name": "1618499669295",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499714495",
@@ -451,12 +451,12 @@
         {
           "template_name": "1618499794235",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499834664",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499889770",
@@ -466,7 +466,7 @@
         {
           "template_name": "1618499924109",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618499971635",
@@ -496,7 +496,7 @@
         {
           "template_name": "1618500214255",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500258813",
@@ -516,12 +516,12 @@
         {
           "template_name": "1618500433183",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500485451",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500525573",
@@ -551,7 +551,7 @@
         {
           "template_name": "1618500763661",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500806623",
@@ -561,12 +561,12 @@
         {
           "template_name": "1618500869787",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500931273",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618500978468",
@@ -591,12 +591,12 @@
         {
           "template_name": "1618501145541",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618501191102",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618501234530",
@@ -611,7 +611,7 @@
         {
           "template_name": "1618501326870",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618501379190",
@@ -621,7 +621,7 @@
         {
           "template_name": "1618501436235",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618501469441",
@@ -641,7 +641,7 @@
         {
           "template_name": "1618501610339",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618501650009",
@@ -681,7 +681,7 @@
         {
           "template_name": "1618501955568",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618502027357",
@@ -691,12 +691,12 @@
         {
           "template_name": "1618502059178",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618502095040",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618502125972",
@@ -706,7 +706,7 @@
         {
           "template_name": "1618502164951",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618502242802",
@@ -726,7 +726,7 @@
         {
           "template_name": "1618502360023",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618502423667",
@@ -746,7 +746,7 @@
         {
           "template_name": "1618305158592",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618305376266",
@@ -801,7 +801,7 @@
         {
           "template_name": "1618308320221",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1618308394947",
@@ -836,11 +836,12 @@
         {
           "template_name": "1618309250659",
           "topic": "esport",
-          "iap": false
+          "iap": true
         },
         {
           "template_name": "1617778558153",
-          "topic": "esport"
+          "topic": "esport",
+          "iap": true
         },
         {
           "template_name": "1617778712193",
@@ -871,7 +872,8 @@
         },
         {
           "template_name": "1617851837218",
-          "topic": "esport"
+          "topic": "esport",
+          "iap": true
         },
         {
           "template_name": "1617851906118",
