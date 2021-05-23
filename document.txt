@@ -19,3 +19,8 @@
 	* 2 là font
 	* 3 là sticker
 	* 4 là tempate
+
+* TAG FONT
+- type : 1 là country
+	 2 là category
+	 3 là style
