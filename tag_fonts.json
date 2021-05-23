@@ -13,6 +13,26 @@
       "isNew": false
     },
     {
+      "tag": "korean",
+      "isNew": false
+    },
+    {
+      "tag": "thai",
+      "isNew": false
+    },
+    {
+      "tag": "Hindi"
+    },
+    {
+      "tag": "Japanese"
+    },
+    {
+      "tag": "Malayalam"
+    },
+    {
+      "tag": "Arabic"
+    },
+    {
       "tag": "crystal sky",
       "isNew": false
     },
@@ -45,23 +65,11 @@
       "isNew": false
     },
     {
-      "tag": "japan",
-      "isNew": false
-    },
-    {
-      "tag": "korean",
-      "isNew": false
-    },
-    {
       "tag": "retro",
       "isNew": false
     },
     {
       "tag": "rock",
-      "isNew": false
-    },
-    {
-      "tag": "thai",
       "isNew": false
     },
     {
@@ -103,9 +111,6 @@
       "tag": "Aksara Jawa"
     },
     {
-      "tag": "Arabic"
-    },
-    {
       "tag": "Art-deco"
     },
     {
@@ -124,16 +129,7 @@
       "tag": "Engineering"
     },
     {
-      "tag": "Hindi"
-    },
-    {
-      "tag": "Japanese"
-    },
-    {
       "tag": "Lettering"
-    },
-    {
-      "tag": "Malayalam"
     },
     {
       "tag": "Medival"
