@@ -2,12 +2,12 @@
   "data": [
     {
       "tag": "urdu",
-      "isNew": true,
+      "isNew": false,
       "type" : 1
     },
     {
       "tag": "tamil",
-      "isNew": true,
+      "isNew": false,
       "type" : 1
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "tag": "korean",
-      "isNew": true,
+      "isNew": false,
       "type" : 1
     },
     {
       "tag": "thai",
-      "isNew": true,
+      "isNew": false,
       "type" : 1
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "tag": "dj",
-      "isNew": false,
+      "isNew": true,
       "type" : 2
     },
     {
