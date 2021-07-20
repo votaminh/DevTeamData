@@ -280,7 +280,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Cartoon",
@@ -586,7 +586,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Caution",
@@ -688,7 +688,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Church",
@@ -890,7 +890,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Dangerous",
@@ -1624,7 +1624,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Emoji",
@@ -2186,7 +2186,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Halloween",
@@ -2586,7 +2586,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Hand",
@@ -2752,7 +2752,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Innovative Idea",
@@ -3054,7 +3054,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Kids",
@@ -3520,7 +3520,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Paint",
@@ -3602,7 +3602,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Ramadan",
@@ -3684,7 +3684,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Ribbon",
@@ -4014,7 +4014,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Skull",
@@ -4216,7 +4216,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Think",
@@ -4494,7 +4494,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Toy",
@@ -4884,7 +4884,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Vintage",
@@ -5286,7 +5286,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Vs",
@@ -5400,7 +5400,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Bakery",
@@ -5798,7 +5798,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Cctv",
@@ -6000,7 +6000,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Chef",
@@ -6222,7 +6222,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Coffee",
@@ -6336,7 +6336,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Daily",
@@ -6530,7 +6530,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Development",
@@ -6932,7 +6932,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Feather",
@@ -7190,7 +7190,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Flag",
@@ -7500,7 +7500,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Food",
@@ -8502,7 +8502,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Game",
@@ -8944,7 +8944,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Gym",
@@ -9290,7 +9290,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Hacker",
@@ -9368,7 +9368,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Health",
@@ -10499,7 +10499,7 @@
           "url": "99.png"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Hearts",
@@ -11348,7 +11348,7 @@
           "url": "99.png"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Kitchen",
@@ -11746,7 +11746,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Love",
@@ -12298,7 +12298,7 @@
           "url": "050_search.webp"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Martial Art",
@@ -12500,7 +12500,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Mascot",
@@ -12902,7 +12902,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Mother",
@@ -13104,7 +13104,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Ngo",
@@ -13410,7 +13410,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Organization",
@@ -13688,7 +13688,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Quote",
@@ -13798,7 +13798,7 @@
           "iap": false
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Restaurant",
@@ -14600,7 +14600,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Shoes",
@@ -14842,7 +14842,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Space",
@@ -15108,7 +15108,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Sport",
@@ -15710,7 +15710,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Technology",
@@ -16808,7 +16808,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Tribal Mask",
@@ -17210,7 +17210,7 @@
           "iap": true
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Vegetable",
@@ -17700,7 +17700,7 @@
           "url": "100_zucchini.webp"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "topic": "Alphabet",
@@ -31223,7 +31223,7 @@
     },
     {
       "topic": "Games",
-      "isNew": true,
+      "isNew": false,
       "list": [
         {
           "url": "lg412.webp",
@@ -46355,7 +46355,7 @@
     },
     {
       "topic": "Colourful",
-      "isNew": true,
+      "isNew": false,
       "list": [
         {
           "url": "watercolor1.webp",
@@ -54208,7 +54208,7 @@
     },
     {
       "topic": "Noel",
-      "isNew": true,
+      "isNew": false,
       "list": [
         {
           "url": "christmas1.webp",
