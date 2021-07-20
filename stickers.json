@@ -1,6 +1,208 @@
 {
   "data": [
     {
+      "topic": "Data Analytics",
+      "isNew" : true,
+      "list": [
+        {
+          "url": "001-database.png",
+          "iap" : false
+        },
+        {
+          "url": "002-database.png"
+        },
+        {
+          "url": "003-data warehouse.png"
+        },
+        {
+          "url": "004-database.png"
+        },
+        {
+          "url": "005-raw file.png"
+        },
+        {
+          "url": "006-log.png"
+        },
+        {
+          "url": "007-data.png",
+          "iap" : true
+        },
+        {
+          "url": "008-data mining.png",
+          "iap" : true
+        },
+        {
+          "url": "009-target.png",
+          "iap" : true
+        },
+        {
+          "url": "010-calculator.png",
+          "iap" : true
+        },
+        {
+          "url": "011-unstructured data.png",
+          "iap" : true
+        },
+        {
+          "url": "012-structured data.png",
+          "iap" : true
+        },
+        {
+          "url": "013-sampling.png",
+          "iap" : true
+        },
+        {
+          "url": "014-decision tree.png",
+          "iap" : true
+        },
+        {
+          "url": "015-demographic.png",
+          "iap" : true
+        },
+        {
+          "url": "016-variety.png",
+          "iap" : true
+        },
+        {
+          "url": "017-variability.png",
+          "iap" : true
+        },
+        {
+          "url": "018-complexity.png",
+          "iap" : true
+        },
+        {
+          "url": "019-ambiguity.png",
+          "iap" : true
+        },
+        {
+          "url": "020-update.png",
+          "iap" : true
+        },
+        {
+          "url": "021-data security.png",
+          "iap" : true
+        },
+        {
+          "url": "022-web hosting.png",
+          "iap" : true
+        },
+        {
+          "url": "023-cloud storage.png",
+          "iap" : true
+        },
+        {
+          "url": "024-data.png",
+          "iap" : true
+        },
+        {
+          "url": "025-filter.png",
+          "iap" : true
+        },
+        {
+          "url": "026-share.png",
+          "iap" : true
+        },
+        {
+          "url": "027-transformation.png",
+          "iap" : true
+        },
+        {
+          "url": "028-sync.png",
+          "iap" : true
+        },
+        {
+          "url": "029-pie chart.png",
+          "iap" : true
+        },
+        {
+          "url": "030-connection.png",
+          "iap" : true
+        },
+        {
+          "url": "031-backup.png",
+          "iap" : true
+        },
+        {
+          "url": "032-achieve.png",
+          "iap" : true
+        },
+        {
+          "url": "033-evaluation.png",
+          "iap" : true
+        },
+        {
+          "url": "034-error.png",
+          "iap" : true
+        },
+        {
+          "url": "035-retargeting.png",
+          "iap" : true
+        },
+        {
+          "url": "036-data cleaning.png",
+          "iap" : true
+        },
+        {
+          "url": "037-pie chart.png",
+          "iap" : true
+        },
+        {
+          "url": "038-bar chart.png",
+          "iap" : true
+        },
+        {
+          "url": "039-area chart.png",
+          "iap" : true
+        },
+        {
+          "url": "040-area chart.png",
+          "iap" : true
+        },
+        {
+          "url": "041-histogram.png",
+          "iap" : true
+        },
+        {
+          "url": "042-venn.png",
+          "iap" : true
+        },
+        {
+          "url": "043-pyramid chart.png",
+          "iap" : true
+        },
+        {
+          "url": "044-scatter plot.png",
+          "iap" : true
+        },
+        {
+          "url": "045-chart.png",
+          "iap" : true
+        },
+        {
+          "url": "046-research.png",
+          "iap" : true
+        },
+        {
+          "url": "047-survey.png",
+          "iap" : true
+        },
+        {
+          "url": "048-monitoring.png",
+          "iap" : true
+        },
+        {
+          "url": "049-reporting.png",
+          "iap" : true
+        },
+        {
+          "url": "050-benchmark.png",
+          "iap" : true
+        }
+      ],
+      "isNew": true
+    },
+    {
       "topic": "Arabic",
       "list": [
         {
