@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="japan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/new resource/japan/New_Tegomin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Noto_Serif_JP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/DotGothic16.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Train_One.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Kiwi_Maru.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Shippori_Mincho.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Sawarabi_Gothic.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Shippori_Mincho_B1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Yusei_Magic.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Noto_Sans_JP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Hachi_Maru_Pop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Stick.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Dela_Gothic_One.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Shippori_Mincho (1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Kosugi_Maru.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/M_PLUS_Rounded_1c.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/RocknRoll_One.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Potta_One.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Reggae_One.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Kosugi.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/M_PLUS_1p.zip!/" />
+      <root url="jar://$PROJECT_DIR$/new resource/japan/Sawarabi_Mincho.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
