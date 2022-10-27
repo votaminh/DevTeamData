@@ -1,110 +1,6 @@
 {
   "topic": [
-    {
-      "name": "Apex Legends",
-      "data": [
-        {
-          "template_name": "1666425854167",
-          "topic": "Apex Legends",
-          "iap": true,
-          "time": 1666431471082
-        },
-        {
-          "template_name": "1666426064775",
-          "topic": "Apex Legends",
-          "iap": true,
-          "time": 1666431471082
-        },
-        {
-          "template_name": "1666426281529",
-          "topic": "Apex Legends",
-          "iap": true,
-          "time": 1666431471082
-        },
-        {
-          "template_name": "1666426549160",
-          "topic": "Apex Legends",
-          "iap": true,
-          "time": 1666431471082
-        },
-        {
-          "template_name": "1666426758442",
-          "topic": "Apex Legends",
-          "iap": true,
-          "time": 1666431471083
-        }
-      ]
-    },
-    {
-      "name": "Call of Duty",
-      "data": [
-        {
-          "template_name": "1666427446976",
-          "topic": "Call of Duty",
-          "iap": true,
-          "time": 1666431471083
-        },
-        {
-          "template_name": "1666427638787",
-          "topic": "Call of Duty",
-          "iap": true,
-          "time": 1666431471083
-        },
-        {
-          "template_name": "1666427823601",
-          "topic": "Call of Duty",
-          "iap": true,
-          "time": 1666431471083
-        },
-        {
-          "template_name": "1666428009531",
-          "topic": "Call of Duty",
-          "iap": true,
-          "time": 1666431471083
-        },
-        {
-          "template_name": "1666428188979",
-          "topic": "Call of Duty",
-          "iap": true,
-          "time": 1666431471083
-        }
-      ]
-    },
-    {
-      "name": "Counter Strike",
-      "data": [
-        {
-          "template_name": "1666428609684",
-          "topic": "Counter Strike",
-          "iap": true,
-          "time": 1666431471083
-        },
-        {
-          "template_name": "1666428771115",
-          "topic": "Counter Strike",
-          "iap": true,
-          "time": 1666431471084
-        },
-        {
-          "template_name": "1666428924466",
-          "topic": "Counter Strike",
-          "iap": true,
-          "time": 1666431471084
-        },
-        {
-          "template_name": "1666429054164",
-          "topic": "Counter Strike",
-          "iap": true,
-          "time": 1666431471084
-        },
-        {
-          "template_name": "1666429186353",
-          "topic": "Counter Strike",
-          "iap": true,
-          "time": 1666431471084
-        }
-      ]
-    },
+    
     {
       "name": "Other",
       "data": [
@@ -815,6 +711,110 @@
           "topic": "Other",
           "iap": true,
           "time": 1666431471095
+        }
+      ]
+    },{
+      "name": "Apex Legends",
+      "data": [
+        {
+          "template_name": "1666425854167",
+          "topic": "Apex Legends",
+          "iap": true,
+          "time": 1666431471082
+        },
+        {
+          "template_name": "1666426064775",
+          "topic": "Apex Legends",
+          "iap": true,
+          "time": 1666431471082
+        },
+        {
+          "template_name": "1666426281529",
+          "topic": "Apex Legends",
+          "iap": true,
+          "time": 1666431471082
+        },
+        {
+          "template_name": "1666426549160",
+          "topic": "Apex Legends",
+          "iap": true,
+          "time": 1666431471082
+        },
+        {
+          "template_name": "1666426758442",
+          "topic": "Apex Legends",
+          "iap": true,
+          "time": 1666431471083
+        }
+      ]
+    },
+    {
+      "name": "Call of Duty",
+      "data": [
+        {
+          "template_name": "1666427446976",
+          "topic": "Call of Duty",
+          "iap": true,
+          "time": 1666431471083
+        },
+        {
+          "template_name": "1666427638787",
+          "topic": "Call of Duty",
+          "iap": true,
+          "time": 1666431471083
+        },
+        {
+          "template_name": "1666427823601",
+          "topic": "Call of Duty",
+          "iap": true,
+          "time": 1666431471083
+        },
+        {
+          "template_name": "1666428009531",
+          "topic": "Call of Duty",
+          "iap": true,
+          "time": 1666431471083
+        },
+        {
+          "template_name": "1666428188979",
+          "topic": "Call of Duty",
+          "iap": true,
+          "time": 1666431471083
+        }
+      ]
+    },
+    {
+      "name": "Counter Strike",
+      "data": [
+        {
+          "template_name": "1666428609684",
+          "topic": "Counter Strike",
+          "iap": true,
+          "time": 1666431471083
+        },
+        {
+          "template_name": "1666428771115",
+          "topic": "Counter Strike",
+          "iap": true,
+          "time": 1666431471084
+        },
+        {
+          "template_name": "1666428924466",
+          "topic": "Counter Strike",
+          "iap": true,
+          "time": 1666431471084
+        },
+        {
+          "template_name": "1666429054164",
+          "topic": "Counter Strike",
+          "iap": true,
+          "time": 1666431471084
+        },
+        {
+          "template_name": "1666429186353",
+          "topic": "Counter Strike",
+          "iap": true,
+          "time": 1666431471084
         }
       ]
     }
