@@ -9,30 +9,6 @@
             "topic": "test",
             "iap": true,
             "time": 1668415803223
-          },
-          {
-            "template_name": "1668414965344",
-            "topic": "test",
-            "iap": true,
-            "time": 1668415803223
-          },
-          {
-            "template_name": "1668415146830",
-            "topic": "test",
-            "iap": true,
-            "time": 1668415803223
-          },
-          {
-            "template_name": "1668415339783",
-            "topic": "test",
-            "iap": true,
-            "time": 1668415803223
-          },
-          {
-            "template_name": "1668415493032",
-            "topic": "test",
-            "iap": true,
-            "time": 1668415803224
           }
         ]
       }
