@@ -1,6 +1,695 @@
 {
   "topic": [
     {
+      "name": "fashion & beauty",
+      "data": [
+        {
+          "template_name": "1610873841251",
+          "topic": "fashion & beauty",
+          "time": 1632651013976,
+          "iap": false
+        },
+        {
+          "template_name": "1610873967737",
+          "topic": "fashion & beauty",
+          "time": 1632651013976,
+          "iap": false
+        },
+        {
+          "template_name": "1610874072019",
+          "topic": "fashion & beauty",
+          "time": 1632651013977,
+          "iap": false
+        },
+        {
+          "template_name": "1610874226485",
+          "topic": "fashion & beauty",
+          "time": 1632651013978,
+          "iap": true
+        },
+        {
+          "template_name": "1610874648988",
+          "topic": "fashion & beauty",
+          "time": 1632651013978,
+          "iap": true
+        },
+        {
+          "template_name": "1610875023008",
+          "topic": "fashion & beauty",
+          "time": 1632651013979,
+          "iap": true
+        },
+        {
+          "template_name": "1610875166475",
+          "topic": "fashion & beauty",
+          "time": 1632651013979,
+          "iap": false
+        },
+        {
+          "template_name": "1610875314099",
+          "topic": "fashion & beauty",
+          "time": 1632651013980,
+          "iap": false
+        },
+        {
+          "template_name": "1610875521550",
+          "topic": "fashion & beauty",
+          "time": 1632651013980,
+          "iap": false
+        },
+        {
+          "template_name": "1610875603248",
+          "topic": "fashion & beauty",
+          "time": 1632651013980,
+          "iap": false
+        },
+        {
+          "template_name": "1610875692750",
+          "topic": "fashion & beauty",
+          "time": 1632651013981,
+          "iap": false
+        },
+        {
+          "template_name": "1610875775215",
+          "topic": "fashion & beauty",
+          "time": 1632651013981,
+          "iap": false
+        },
+        {
+          "template_name": "1610876577221",
+          "topic": "fashion & beauty",
+          "time": 1632651013982,
+          "iap": false
+        },
+        {
+          "template_name": "1610876709771",
+          "topic": "fashion & beauty",
+          "time": 1632651013982,
+          "iap": false
+        },
+        {
+          "template_name": "1610876904323",
+          "topic": "fashion & beauty",
+          "time": 1632651013983,
+          "iap": false
+        },
+        {
+          "template_name": "1610877047592",
+          "topic": "fashion & beauty",
+          "time": 1632651013983,
+          "iap": true
+        },
+        {
+          "template_name": "1610877834494",
+          "topic": "fashion & beauty",
+          "time": 1632651013984,
+          "iap": true
+        },
+        {
+          "template_name": "1610877945008",
+          "topic": "fashion & beauty",
+          "time": 1632651013984,
+          "iap": false
+        },
+        {
+          "template_name": "1632575748403",
+          "topic": "fashion & beauty",
+          "time": 1632651013985,
+          "iap": false
+        },
+        {
+          "template_name": "1632575810925",
+          "topic": "fashion & beauty",
+          "time": 1632651013985,
+          "iap": true
+        },
+        {
+          "template_name": "1632575856270",
+          "topic": "fashion & beauty",
+          "time": 1632651013986,
+          "iap": true
+        },
+        {
+          "template_name": "1632576010158",
+          "topic": "fashion & beauty",
+          "time": 1632651013986,
+          "iap": false
+        },
+        {
+          "template_name": "1632576085373",
+          "topic": "fashion & beauty",
+          "time": 1632651013988,
+          "iap": false
+        },
+        {
+          "template_name": "1632576130134",
+          "topic": "fashion & beauty",
+          "time": 1632651013989,
+          "iap": false
+        },
+        {
+          "template_name": "1632576213002",
+          "topic": "fashion & beauty",
+          "time": 1632651013989,
+          "iap": false
+        },
+        {
+          "template_name": "1632576287334",
+          "topic": "fashion & beauty",
+          "time": 1632651013990,
+          "iap": false
+        },
+        {
+          "template_name": "1632576369535",
+          "topic": "fashion & beauty",
+          "time": 1632651013990,
+          "iap": false
+        },
+        {
+          "template_name": "1632576463530",
+          "topic": "fashion & beauty",
+          "time": 1632651013991,
+          "iap": false
+        },
+        {
+          "template_name": "1632576505285",
+          "topic": "fashion & beauty",
+          "time": 1632651013992,
+          "iap": true
+        },
+        {
+          "template_name": "1632576563449",
+          "topic": "fashion & beauty",
+          "time": 1632651013992,
+          "iap": true
+        },
+        {
+          "template_name": "1632576634837",
+          "topic": "fashion & beauty",
+          "time": 1632651013992,
+          "iap": true
+        },
+        {
+          "template_name": "1632576716496",
+          "topic": "fashion & beauty",
+          "time": 1632651013993,
+          "iap": true
+        },
+        {
+          "template_name": "1632576787896",
+          "topic": "fashion & beauty",
+          "time": 1632651013993,
+          "iap": true
+        },
+        {
+          "template_name": "1632576859515",
+          "topic": "fashion & beauty",
+          "time": 1632651013994,
+          "iap": true
+        },
+        {
+          "template_name": "1632576968574",
+          "topic": "fashion & beauty",
+          "time": 1632651013994,
+          "iap": true
+        },
+        {
+          "template_name": "1632577023607",
+          "topic": "fashion & beauty",
+          "time": 1632651013995,
+          "iap": true
+        },
+        {
+          "template_name": "1632577286177",
+          "topic": "fashion & beauty",
+          "time": 1632651013996,
+          "iap": true
+        },
+        {
+          "template_name": "1632577366003",
+          "topic": "fashion & beauty",
+          "time": 1632651013996,
+          "iap": false
+        },
+        {
+          "template_name": "1632577456189",
+          "topic": "fashion & beauty",
+          "time": 1632651013997,
+          "iap": true
+        },
+        {
+          "template_name": "1632577529160",
+          "topic": "fashion & beauty",
+          "time": 1632651013997,
+          "iap": true
+        },
+        {
+          "template_name": "1632577586139",
+          "topic": "fashion & beauty",
+          "time": 1632651013998,
+          "iap": false
+        },
+        {
+          "template_name": "1632577659700",
+          "topic": "fashion & beauty",
+          "time": 1632651013998,
+          "iap": false
+        },
+        {
+          "template_name": "1632577730436",
+          "topic": "fashion & beauty",
+          "time": 1632651013999,
+          "iap": true
+        },
+        {
+          "template_name": "1632577801027",
+          "topic": "fashion & beauty",
+          "time": 1632651014000,
+          "iap": false
+        },
+        {
+          "template_name": "1632577865895",
+          "topic": "fashion & beauty",
+          "time": 1632651014000,
+          "iap": false
+        },
+        {
+          "template_name": "1632577958088",
+          "topic": "fashion & beauty",
+          "time": 1632651014001,
+          "iap": false
+        },
+        {
+          "template_name": "1632578023451",
+          "topic": "fashion & beauty",
+          "time": 1632651014001,
+          "iap": true
+        },
+        {
+          "template_name": "1632578105975",
+          "topic": "fashion & beauty",
+          "time": 1632651014001,
+          "iap": false
+        },
+        {
+          "template_name": "1632578169310",
+          "topic": "fashion & beauty",
+          "time": 1632651014002,
+          "iap": false
+        },
+        {
+          "template_name": "1632578218613",
+          "topic": "fashion & beauty",
+          "time": 1632651014002,
+          "iap": true
+        },
+        {
+          "template_name": "1632578290537",
+          "topic": "fashion & beauty",
+          "time": 1632651014003,
+          "iap": false
+        },
+        {
+          "template_name": "1632578361998",
+          "topic": "fashion & beauty",
+          "time": 1632651014003,
+          "iap": true
+        },
+        {
+          "template_name": "1632578418108",
+          "topic": "fashion & beauty",
+          "time": 1632651014004,
+          "iap": false
+        },
+        {
+          "template_name": "1632578476495",
+          "topic": "fashion & beauty",
+          "time": 1632651014004,
+          "iap": false
+        },
+        {
+          "template_name": "1632578524307",
+          "topic": "fashion & beauty",
+          "time": 1632651014005,
+          "iap": false
+        },
+        {
+          "template_name": "1632595821997",
+          "topic": "fashion & beauty",
+          "time": 1632651014005,
+          "iap": false
+        },
+        {
+          "template_name": "1632595922658",
+          "topic": "fashion & beauty",
+          "time": 1632651014005,
+          "iap": true
+        },
+        {
+          "template_name": "1632596017889",
+          "topic": "fashion & beauty",
+          "time": 1632651014006,
+          "iap": false
+        },
+        {
+          "template_name": "1632596091128",
+          "topic": "fashion & beauty",
+          "time": 1632651014006,
+          "iap": false
+        },
+        {
+          "template_name": "1632596183995",
+          "topic": "fashion & beauty",
+          "time": 1632651014007,
+          "iap": true
+        },
+        {
+          "template_name": "1632596249016",
+          "topic": "fashion & beauty",
+          "time": 1632651014007,
+          "iap": false
+        },
+        {
+          "template_name": "1632596315607",
+          "topic": "fashion & beauty",
+          "time": 1632651014009,
+          "iap": false
+        },
+        {
+          "template_name": "1632596372209",
+          "topic": "fashion & beauty",
+          "time": 1632651014010,
+          "iap": true
+        },
+        {
+          "template_name": "1632596435749",
+          "topic": "fashion & beauty",
+          "time": 1632651014010,
+          "iap": false
+        },
+        {
+          "template_name": "1632596511052",
+          "topic": "fashion & beauty",
+          "time": 1632651014011,
+          "iap": false
+        },
+        {
+          "template_name": "1632596576085",
+          "topic": "fashion & beauty",
+          "time": 1632651014011,
+          "iap": true
+        },
+        {
+          "template_name": "1632596640397",
+          "topic": "fashion & beauty",
+          "time": 1632651014012,
+          "iap": true
+        },
+        {
+          "template_name": "1632596714076",
+          "topic": "fashion & beauty",
+          "time": 1632651014012,
+          "iap": true
+        },
+        {
+          "template_name": "1632597138726",
+          "topic": "fashion & beauty",
+          "time": 1632651014013,
+          "iap": false
+        },
+        {
+          "template_name": "1632597436032",
+          "topic": "fashion & beauty",
+          "time": 1632651014013,
+          "iap": true
+        },
+        {
+          "template_name": "1632597534165",
+          "topic": "fashion & beauty",
+          "time": 1632651014014,
+          "iap": false
+        },
+        {
+          "template_name": "1632597597872",
+          "topic": "fashion & beauty",
+          "time": 1632651014015,
+          "iap": true
+        },
+        {
+          "template_name": "1632597660075",
+          "topic": "fashion & beauty",
+          "time": 1632651014015,
+          "iap": false
+        },
+        {
+          "template_name": "1632597730032",
+          "topic": "fashion & beauty",
+          "time": 1632651014016,
+          "iap": false
+        },
+        {
+          "template_name": "1632611796350",
+          "topic": "fashion & beauty",
+          "time": 1632651014016,
+          "iap": false
+        },
+        {
+          "template_name": "1632611865966",
+          "topic": "fashion & beauty",
+          "time": 1632651014016,
+          "iap": true
+        },
+        {
+          "template_name": "1632611947940",
+          "topic": "fashion & beauty",
+          "time": 1632651014017,
+          "iap": true
+        },
+        {
+          "template_name": "1632612028970",
+          "topic": "fashion & beauty",
+          "time": 1632651014017,
+          "iap": false
+        },
+        {
+          "template_name": "1632612090335",
+          "topic": "fashion & beauty",
+          "time": 1632651014018,
+          "iap": true
+        },
+        {
+          "template_name": "1632612165996",
+          "topic": "fashion & beauty",
+          "time": 1632651014018,
+          "iap": true
+        },
+        {
+          "template_name": "1632612255552",
+          "topic": "fashion & beauty",
+          "time": 1632651014019,
+          "iap": false
+        },
+        {
+          "template_name": "1632612323284",
+          "topic": "fashion & beauty",
+          "time": 1632651014019,
+          "iap": false
+        },
+        {
+          "template_name": "1632612428640",
+          "topic": "fashion & beauty",
+          "time": 1632651014020,
+          "iap": false
+        },
+        {
+          "template_name": "1632612504467",
+          "topic": "fashion & beauty",
+          "time": 1632651014020,
+          "iap": true
+        },
+        {
+          "template_name": "1632612574989",
+          "topic": "fashion & beauty",
+          "time": 1632651014021,
+          "iap": true
+        },
+        {
+          "template_name": "1632612658655",
+          "topic": "fashion & beauty",
+          "time": 1632651014021,
+          "iap": false
+        },
+        {
+          "template_name": "1632612732999",
+          "topic": "fashion & beauty",
+          "time": 1632651014021,
+          "iap": true
+        },
+        {
+          "template_name": "1632612798270",
+          "topic": "fashion & beauty",
+          "time": 1632651014022,
+          "iap": false
+        },
+        {
+          "template_name": "1632612883699",
+          "topic": "fashion & beauty",
+          "time": 1632651014022,
+          "iap": false
+        },
+        {
+          "template_name": "1632612958371",
+          "topic": "fashion & beauty",
+          "time": 1632651014023,
+          "iap": true
+        },
+        {
+          "template_name": "1632613007050",
+          "topic": "fashion & beauty",
+          "time": 1632651014029,
+          "iap": true
+        },
+        {
+          "template_name": "1632613081598",
+          "topic": "fashion & beauty",
+          "time": 1632651014029,
+          "iap": false
+        },
+        {
+          "template_name": "1632613157251",
+          "topic": "fashion & beauty",
+          "time": 1632651014030,
+          "iap": false
+        },
+        {
+          "template_name": "1632613220750",
+          "topic": "fashion & beauty",
+          "time": 1632651014030,
+          "iap": true
+        },
+        {
+          "template_name": "1632613662600",
+          "topic": "fashion & beauty",
+          "time": 1632651014031,
+          "iap": true
+        },
+        {
+          "template_name": "1632613723780",
+          "topic": "fashion & beauty",
+          "time": 1632651014031,
+          "iap": true
+        },
+        {
+          "template_name": "1632613786589",
+          "topic": "fashion & beauty",
+          "time": 1632651014032,
+          "iap": true
+        },
+        {
+          "template_name": "1632613915114",
+          "topic": "fashion & beauty",
+          "time": 1632651014032,
+          "iap": false
+        },
+        {
+          "template_name": "1632613997831",
+          "topic": "fashion & beauty",
+          "time": 1632651014033,
+          "iap": true
+        },
+        {
+          "template_name": "1632614076934",
+          "topic": "fashion & beauty",
+          "time": 1632651014033,
+          "iap": true
+        },
+        {
+          "template_name": "1632614161925",
+          "topic": "fashion & beauty",
+          "time": 1632651014033,
+          "iap": false
+        },
+        {
+          "template_name": "1632614215062",
+          "topic": "fashion & beauty",
+          "time": 1632651014034,
+          "iap": false
+        },
+        {
+          "template_name": "1632614282809",
+          "topic": "fashion & beauty",
+          "time": 1632651014034,
+          "iap": false
+        },
+        {
+          "template_name": "1632614357502",
+          "topic": "fashion & beauty",
+          "time": 1632651014035,
+          "iap": false
+        },
+        {
+          "template_name": "1632614415807",
+          "topic": "fashion & beauty",
+          "time": 1632651014035,
+          "iap": true
+        },
+        {
+          "template_name": "1632614493104",
+          "topic": "fashion & beauty",
+          "time": 1632651014035,
+          "iap": true
+        },
+        {
+          "template_name": "1632614591935",
+          "topic": "fashion & beauty",
+          "time": 1632651014036,
+          "iap": true
+        },
+        {
+          "template_name": "1632614664549",
+          "topic": "fashion & beauty",
+          "time": 1632651014036,
+          "iap": false
+        },
+        {
+          "template_name": "1632614722005",
+          "topic": "fashion & beauty",
+          "time": 1632651014037,
+          "iap": true
+        },
+        {
+          "template_name": "1632614789456",
+          "topic": "fashion & beauty",
+          "time": 1632651014037,
+          "iap": true
+        },
+        {
+          "template_name": "1632614841470",
+          "topic": "fashion & beauty",
+          "time": 1632651014038,
+          "iap": true
+        },
+        {
+          "template_name": "1632614920535",
+          "topic": "fashion & beauty",
+          "time": 1632651014038,
+          "iap": false
+        },
+        {
+          "template_name": "1632615028248",
+          "topic": "fashion & beauty",
+          "time": 1632651014039,
+          "iap": false
+        },
+        {
+          "template_name": "1632615113058",
+          "topic": "fashion & beauty",
+          "time": 1632651014039,
+          "iap": true
+        }
+      ]
+    },
+    {
       "name": "Youtube",
       "data": [
         {
@@ -7797,695 +8486,6 @@
           "topic": "finance & insurance",
           "time": 1633103444946,
           "iap": false
-        }
-      ]
-    },
-    {
-      "name": "fashion & beauty",
-      "data": [
-        {
-          "template_name": "1610873841251",
-          "topic": "fashion & beauty",
-          "time": 1632651013976,
-          "iap": true
-        },
-        {
-          "template_name": "1610873967737",
-          "topic": "fashion & beauty",
-          "time": 1632651013976,
-          "iap": false
-        },
-        {
-          "template_name": "1610874072019",
-          "topic": "fashion & beauty",
-          "time": 1632651013977,
-          "iap": true
-        },
-        {
-          "template_name": "1610874226485",
-          "topic": "fashion & beauty",
-          "time": 1632651013978,
-          "iap": true
-        },
-        {
-          "template_name": "1610874648988",
-          "topic": "fashion & beauty",
-          "time": 1632651013978,
-          "iap": true
-        },
-        {
-          "template_name": "1610875023008",
-          "topic": "fashion & beauty",
-          "time": 1632651013979,
-          "iap": true
-        },
-        {
-          "template_name": "1610875166475",
-          "topic": "fashion & beauty",
-          "time": 1632651013979,
-          "iap": false
-        },
-        {
-          "template_name": "1610875314099",
-          "topic": "fashion & beauty",
-          "time": 1632651013980,
-          "iap": false
-        },
-        {
-          "template_name": "1610875521550",
-          "topic": "fashion & beauty",
-          "time": 1632651013980,
-          "iap": false
-        },
-        {
-          "template_name": "1610875603248",
-          "topic": "fashion & beauty",
-          "time": 1632651013980,
-          "iap": false
-        },
-        {
-          "template_name": "1610875692750",
-          "topic": "fashion & beauty",
-          "time": 1632651013981,
-          "iap": false
-        },
-        {
-          "template_name": "1610875775215",
-          "topic": "fashion & beauty",
-          "time": 1632651013981,
-          "iap": false
-        },
-        {
-          "template_name": "1610876577221",
-          "topic": "fashion & beauty",
-          "time": 1632651013982,
-          "iap": false
-        },
-        {
-          "template_name": "1610876709771",
-          "topic": "fashion & beauty",
-          "time": 1632651013982,
-          "iap": false
-        },
-        {
-          "template_name": "1610876904323",
-          "topic": "fashion & beauty",
-          "time": 1632651013983,
-          "iap": false
-        },
-        {
-          "template_name": "1610877047592",
-          "topic": "fashion & beauty",
-          "time": 1632651013983,
-          "iap": true
-        },
-        {
-          "template_name": "1610877834494",
-          "topic": "fashion & beauty",
-          "time": 1632651013984,
-          "iap": true
-        },
-        {
-          "template_name": "1610877945008",
-          "topic": "fashion & beauty",
-          "time": 1632651013984,
-          "iap": false
-        },
-        {
-          "template_name": "1632575748403",
-          "topic": "fashion & beauty",
-          "time": 1632651013985,
-          "iap": false
-        },
-        {
-          "template_name": "1632575810925",
-          "topic": "fashion & beauty",
-          "time": 1632651013985,
-          "iap": true
-        },
-        {
-          "template_name": "1632575856270",
-          "topic": "fashion & beauty",
-          "time": 1632651013986,
-          "iap": true
-        },
-        {
-          "template_name": "1632576010158",
-          "topic": "fashion & beauty",
-          "time": 1632651013986,
-          "iap": false
-        },
-        {
-          "template_name": "1632576085373",
-          "topic": "fashion & beauty",
-          "time": 1632651013988,
-          "iap": false
-        },
-        {
-          "template_name": "1632576130134",
-          "topic": "fashion & beauty",
-          "time": 1632651013989,
-          "iap": false
-        },
-        {
-          "template_name": "1632576213002",
-          "topic": "fashion & beauty",
-          "time": 1632651013989,
-          "iap": false
-        },
-        {
-          "template_name": "1632576287334",
-          "topic": "fashion & beauty",
-          "time": 1632651013990,
-          "iap": false
-        },
-        {
-          "template_name": "1632576369535",
-          "topic": "fashion & beauty",
-          "time": 1632651013990,
-          "iap": false
-        },
-        {
-          "template_name": "1632576463530",
-          "topic": "fashion & beauty",
-          "time": 1632651013991,
-          "iap": false
-        },
-        {
-          "template_name": "1632576505285",
-          "topic": "fashion & beauty",
-          "time": 1632651013992,
-          "iap": true
-        },
-        {
-          "template_name": "1632576563449",
-          "topic": "fashion & beauty",
-          "time": 1632651013992,
-          "iap": true
-        },
-        {
-          "template_name": "1632576634837",
-          "topic": "fashion & beauty",
-          "time": 1632651013992,
-          "iap": true
-        },
-        {
-          "template_name": "1632576716496",
-          "topic": "fashion & beauty",
-          "time": 1632651013993,
-          "iap": true
-        },
-        {
-          "template_name": "1632576787896",
-          "topic": "fashion & beauty",
-          "time": 1632651013993,
-          "iap": true
-        },
-        {
-          "template_name": "1632576859515",
-          "topic": "fashion & beauty",
-          "time": 1632651013994,
-          "iap": true
-        },
-        {
-          "template_name": "1632576968574",
-          "topic": "fashion & beauty",
-          "time": 1632651013994,
-          "iap": true
-        },
-        {
-          "template_name": "1632577023607",
-          "topic": "fashion & beauty",
-          "time": 1632651013995,
-          "iap": true
-        },
-        {
-          "template_name": "1632577286177",
-          "topic": "fashion & beauty",
-          "time": 1632651013996,
-          "iap": true
-        },
-        {
-          "template_name": "1632577366003",
-          "topic": "fashion & beauty",
-          "time": 1632651013996,
-          "iap": false
-        },
-        {
-          "template_name": "1632577456189",
-          "topic": "fashion & beauty",
-          "time": 1632651013997,
-          "iap": true
-        },
-        {
-          "template_name": "1632577529160",
-          "topic": "fashion & beauty",
-          "time": 1632651013997,
-          "iap": true
-        },
-        {
-          "template_name": "1632577586139",
-          "topic": "fashion & beauty",
-          "time": 1632651013998,
-          "iap": false
-        },
-        {
-          "template_name": "1632577659700",
-          "topic": "fashion & beauty",
-          "time": 1632651013998,
-          "iap": false
-        },
-        {
-          "template_name": "1632577730436",
-          "topic": "fashion & beauty",
-          "time": 1632651013999,
-          "iap": true
-        },
-        {
-          "template_name": "1632577801027",
-          "topic": "fashion & beauty",
-          "time": 1632651014000,
-          "iap": false
-        },
-        {
-          "template_name": "1632577865895",
-          "topic": "fashion & beauty",
-          "time": 1632651014000,
-          "iap": false
-        },
-        {
-          "template_name": "1632577958088",
-          "topic": "fashion & beauty",
-          "time": 1632651014001,
-          "iap": false
-        },
-        {
-          "template_name": "1632578023451",
-          "topic": "fashion & beauty",
-          "time": 1632651014001,
-          "iap": true
-        },
-        {
-          "template_name": "1632578105975",
-          "topic": "fashion & beauty",
-          "time": 1632651014001,
-          "iap": false
-        },
-        {
-          "template_name": "1632578169310",
-          "topic": "fashion & beauty",
-          "time": 1632651014002,
-          "iap": false
-        },
-        {
-          "template_name": "1632578218613",
-          "topic": "fashion & beauty",
-          "time": 1632651014002,
-          "iap": true
-        },
-        {
-          "template_name": "1632578290537",
-          "topic": "fashion & beauty",
-          "time": 1632651014003,
-          "iap": false
-        },
-        {
-          "template_name": "1632578361998",
-          "topic": "fashion & beauty",
-          "time": 1632651014003,
-          "iap": true
-        },
-        {
-          "template_name": "1632578418108",
-          "topic": "fashion & beauty",
-          "time": 1632651014004,
-          "iap": false
-        },
-        {
-          "template_name": "1632578476495",
-          "topic": "fashion & beauty",
-          "time": 1632651014004,
-          "iap": false
-        },
-        {
-          "template_name": "1632578524307",
-          "topic": "fashion & beauty",
-          "time": 1632651014005,
-          "iap": false
-        },
-        {
-          "template_name": "1632595821997",
-          "topic": "fashion & beauty",
-          "time": 1632651014005,
-          "iap": false
-        },
-        {
-          "template_name": "1632595922658",
-          "topic": "fashion & beauty",
-          "time": 1632651014005,
-          "iap": true
-        },
-        {
-          "template_name": "1632596017889",
-          "topic": "fashion & beauty",
-          "time": 1632651014006,
-          "iap": false
-        },
-        {
-          "template_name": "1632596091128",
-          "topic": "fashion & beauty",
-          "time": 1632651014006,
-          "iap": false
-        },
-        {
-          "template_name": "1632596183995",
-          "topic": "fashion & beauty",
-          "time": 1632651014007,
-          "iap": true
-        },
-        {
-          "template_name": "1632596249016",
-          "topic": "fashion & beauty",
-          "time": 1632651014007,
-          "iap": false
-        },
-        {
-          "template_name": "1632596315607",
-          "topic": "fashion & beauty",
-          "time": 1632651014009,
-          "iap": false
-        },
-        {
-          "template_name": "1632596372209",
-          "topic": "fashion & beauty",
-          "time": 1632651014010,
-          "iap": true
-        },
-        {
-          "template_name": "1632596435749",
-          "topic": "fashion & beauty",
-          "time": 1632651014010,
-          "iap": false
-        },
-        {
-          "template_name": "1632596511052",
-          "topic": "fashion & beauty",
-          "time": 1632651014011,
-          "iap": false
-        },
-        {
-          "template_name": "1632596576085",
-          "topic": "fashion & beauty",
-          "time": 1632651014011,
-          "iap": true
-        },
-        {
-          "template_name": "1632596640397",
-          "topic": "fashion & beauty",
-          "time": 1632651014012,
-          "iap": true
-        },
-        {
-          "template_name": "1632596714076",
-          "topic": "fashion & beauty",
-          "time": 1632651014012,
-          "iap": true
-        },
-        {
-          "template_name": "1632597138726",
-          "topic": "fashion & beauty",
-          "time": 1632651014013,
-          "iap": false
-        },
-        {
-          "template_name": "1632597436032",
-          "topic": "fashion & beauty",
-          "time": 1632651014013,
-          "iap": true
-        },
-        {
-          "template_name": "1632597534165",
-          "topic": "fashion & beauty",
-          "time": 1632651014014,
-          "iap": false
-        },
-        {
-          "template_name": "1632597597872",
-          "topic": "fashion & beauty",
-          "time": 1632651014015,
-          "iap": true
-        },
-        {
-          "template_name": "1632597660075",
-          "topic": "fashion & beauty",
-          "time": 1632651014015,
-          "iap": false
-        },
-        {
-          "template_name": "1632597730032",
-          "topic": "fashion & beauty",
-          "time": 1632651014016,
-          "iap": false
-        },
-        {
-          "template_name": "1632611796350",
-          "topic": "fashion & beauty",
-          "time": 1632651014016,
-          "iap": false
-        },
-        {
-          "template_name": "1632611865966",
-          "topic": "fashion & beauty",
-          "time": 1632651014016,
-          "iap": true
-        },
-        {
-          "template_name": "1632611947940",
-          "topic": "fashion & beauty",
-          "time": 1632651014017,
-          "iap": true
-        },
-        {
-          "template_name": "1632612028970",
-          "topic": "fashion & beauty",
-          "time": 1632651014017,
-          "iap": false
-        },
-        {
-          "template_name": "1632612090335",
-          "topic": "fashion & beauty",
-          "time": 1632651014018,
-          "iap": true
-        },
-        {
-          "template_name": "1632612165996",
-          "topic": "fashion & beauty",
-          "time": 1632651014018,
-          "iap": true
-        },
-        {
-          "template_name": "1632612255552",
-          "topic": "fashion & beauty",
-          "time": 1632651014019,
-          "iap": false
-        },
-        {
-          "template_name": "1632612323284",
-          "topic": "fashion & beauty",
-          "time": 1632651014019,
-          "iap": false
-        },
-        {
-          "template_name": "1632612428640",
-          "topic": "fashion & beauty",
-          "time": 1632651014020,
-          "iap": false
-        },
-        {
-          "template_name": "1632612504467",
-          "topic": "fashion & beauty",
-          "time": 1632651014020,
-          "iap": true
-        },
-        {
-          "template_name": "1632612574989",
-          "topic": "fashion & beauty",
-          "time": 1632651014021,
-          "iap": true
-        },
-        {
-          "template_name": "1632612658655",
-          "topic": "fashion & beauty",
-          "time": 1632651014021,
-          "iap": false
-        },
-        {
-          "template_name": "1632612732999",
-          "topic": "fashion & beauty",
-          "time": 1632651014021,
-          "iap": true
-        },
-        {
-          "template_name": "1632612798270",
-          "topic": "fashion & beauty",
-          "time": 1632651014022,
-          "iap": false
-        },
-        {
-          "template_name": "1632612883699",
-          "topic": "fashion & beauty",
-          "time": 1632651014022,
-          "iap": false
-        },
-        {
-          "template_name": "1632612958371",
-          "topic": "fashion & beauty",
-          "time": 1632651014023,
-          "iap": true
-        },
-        {
-          "template_name": "1632613007050",
-          "topic": "fashion & beauty",
-          "time": 1632651014029,
-          "iap": true
-        },
-        {
-          "template_name": "1632613081598",
-          "topic": "fashion & beauty",
-          "time": 1632651014029,
-          "iap": false
-        },
-        {
-          "template_name": "1632613157251",
-          "topic": "fashion & beauty",
-          "time": 1632651014030,
-          "iap": false
-        },
-        {
-          "template_name": "1632613220750",
-          "topic": "fashion & beauty",
-          "time": 1632651014030,
-          "iap": true
-        },
-        {
-          "template_name": "1632613662600",
-          "topic": "fashion & beauty",
-          "time": 1632651014031,
-          "iap": true
-        },
-        {
-          "template_name": "1632613723780",
-          "topic": "fashion & beauty",
-          "time": 1632651014031,
-          "iap": true
-        },
-        {
-          "template_name": "1632613786589",
-          "topic": "fashion & beauty",
-          "time": 1632651014032,
-          "iap": true
-        },
-        {
-          "template_name": "1632613915114",
-          "topic": "fashion & beauty",
-          "time": 1632651014032,
-          "iap": false
-        },
-        {
-          "template_name": "1632613997831",
-          "topic": "fashion & beauty",
-          "time": 1632651014033,
-          "iap": true
-        },
-        {
-          "template_name": "1632614076934",
-          "topic": "fashion & beauty",
-          "time": 1632651014033,
-          "iap": true
-        },
-        {
-          "template_name": "1632614161925",
-          "topic": "fashion & beauty",
-          "time": 1632651014033,
-          "iap": false
-        },
-        {
-          "template_name": "1632614215062",
-          "topic": "fashion & beauty",
-          "time": 1632651014034,
-          "iap": false
-        },
-        {
-          "template_name": "1632614282809",
-          "topic": "fashion & beauty",
-          "time": 1632651014034,
-          "iap": false
-        },
-        {
-          "template_name": "1632614357502",
-          "topic": "fashion & beauty",
-          "time": 1632651014035,
-          "iap": false
-        },
-        {
-          "template_name": "1632614415807",
-          "topic": "fashion & beauty",
-          "time": 1632651014035,
-          "iap": true
-        },
-        {
-          "template_name": "1632614493104",
-          "topic": "fashion & beauty",
-          "time": 1632651014035,
-          "iap": true
-        },
-        {
-          "template_name": "1632614591935",
-          "topic": "fashion & beauty",
-          "time": 1632651014036,
-          "iap": true
-        },
-        {
-          "template_name": "1632614664549",
-          "topic": "fashion & beauty",
-          "time": 1632651014036,
-          "iap": false
-        },
-        {
-          "template_name": "1632614722005",
-          "topic": "fashion & beauty",
-          "time": 1632651014037,
-          "iap": true
-        },
-        {
-          "template_name": "1632614789456",
-          "topic": "fashion & beauty",
-          "time": 1632651014037,
-          "iap": true
-        },
-        {
-          "template_name": "1632614841470",
-          "topic": "fashion & beauty",
-          "time": 1632651014038,
-          "iap": true
-        },
-        {
-          "template_name": "1632614920535",
-          "topic": "fashion & beauty",
-          "time": 1632651014038,
-          "iap": false
-        },
-        {
-          "template_name": "1632615028248",
-          "topic": "fashion & beauty",
-          "time": 1632651014039,
-          "iap": false
-        },
-        {
-          "template_name": "1632615113058",
-          "topic": "fashion & beauty",
-          "time": 1632651014039,
-          "iap": true
         }
       ]
     },
