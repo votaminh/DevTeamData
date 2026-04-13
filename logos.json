@@ -1,71 +1,67 @@
 {
   "topic": [
     {
-      "topic": [
+      "name": "minimalist",
+      "data": [
         {
-          "name": "minimalist",
-          "data": [
-            {
-              "template_name": "1776073202513",
-              "topic": "minimalist",
-              "iap": false,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073275419",
-              "topic": "minimalist",
-              "iap": false,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073365078",
-              "topic": "minimalist",
-              "iap": false,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073442545",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073509796",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073634518",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073715923",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073788545",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073869282",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            },
-            {
-              "template_name": "1776073944754",
-              "topic": "minimalist",
-              "iap": true,
-              "time": 1776075906905
-            }
-          ]
+          "template_name": "1776073202513",
+          "topic": "minimalist",
+          "iap": false,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073275419",
+          "topic": "minimalist",
+          "iap": false,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073365078",
+          "topic": "minimalist",
+          "iap": false,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073442545",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073509796",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073634518",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073715923",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073788545",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073869282",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
+        },
+        {
+          "template_name": "1776073944754",
+          "topic": "minimalist",
+          "iap": true,
+          "time": 1776075906905
         }
       ]
     },
